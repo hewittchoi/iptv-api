@@ -1,6 +1,11 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources with one subscription address per line
 
+# 接口中自带直播源
+## 盒子迷
+https://盒子迷.top/ZB
+
+
 # IPTV直播源，分类的，https://iptv.hacks.tools/
 https://live.hacks.tools/tv/iptv4.txt
 https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
