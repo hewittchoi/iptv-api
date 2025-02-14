@@ -1,47 +1,17 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources with one subscription address per line
-
-# 接口中自带直播源
-## 盒子迷
-https://盒子迷.top/ZB
-
-
-# IPTV直播源，分类的，https://iptv.hacks.tools/
-https://live.hacks.tools/tv/iptv4.txt
-https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
-
-# Guovin每日更新工具
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-
+# GitHub镜像
+# https://ghfast.top/
+# https://gh-proxy.com/
 #【优先】范明明 https://github.com/fanmingming/live
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
 #【优先】YueChan的APTV源延迟低
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
-# 【优先】APTK更新地址
-http://aktv.top/live.txt
-# 【优先】肥羊-见telegram
 
-# kimwang1978每日更新#https://github.com/kimwang1978/collect-tv-txt #短链kimwang1978：https://tinyurl.com/tv-live-txt
-https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-# Moexin每日更新，共有Adult.m3u，CCTV.m3u，CNTV.m3u与IPTV.m3u
-https://ghproxy.cc/https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/IPTV.m3u
-# sili126每日更新，https://github.com/ssili126/tv
-https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
-
-# 公众号百宝箱箱
-https://live.iptv365.org/live.txt
-# 公众号榴芒电视 找资源
-# APTV苹果APP https://github.com/Kimentanm/aptv/tree/master
-https://ghproxy.cc/https://github.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u
-
-
-
-https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-# suxuang 
+#suxuang https://github.com/suxuang/myIPTV
+https://ghproxy.cc/https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u
 https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://ghp.ci/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 # 待分
@@ -53,6 +23,36 @@ https://ghproxy.cc/https://raw.githubusercontent.com/xzw832/cmys/main/S_weishi.t
 https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+
+# kimwang1978每日更新#https://github.com/kimwang1978/collect-tv-txt #短链kimwang1978：https://tinyurl.com/tv-live-txt
+https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+# Moexin每日更新，共有Adult.m3u，CCTV.m3u，CNTV.m3u与IPTV.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/Files/IPTV.m3u
+# sili126每日更新，https://github.com/ssili126/tv
+https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+
+# 接口中自带直播源
+## 盒子迷
+https://盒子迷.top/ZB
+
+# 【优先】APTK更新地址
+http://aktv.top/live.txt
+# 【优先】肥羊-见telegram
+# Guovin每日更新工具
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+
+# 公众号百宝箱箱
+https://live.iptv365.org/live.txt
+# 公众号榴芒电视 找资源
+# APTV苹果APP https://github.com/Kimentanm/aptv/tree/master
+https://ghproxy.cc/https://github.com/Kimentanm/aptv/blob/master/m3u/iptv.m3u
+
+
+
+https://ghproxy.cc/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
 # 直播电视
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
@@ -67,8 +67,7 @@ https://gh.aptv.app/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.t
 https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/live.txt
 #hw2837
 https://gitee.com/hw2837/iptv/raw/master/ipv6.txt
-#suxuang https://github.com/suxuang/myIPTV
-https://ghproxy.cc/https://github.com/suxuang/myIPTV/blob/main/ipv6.m3u
+
 #挺好直播源
 http://ztha.top/TVBox/tv/thtv.txt
 
@@ -82,3 +81,7 @@ http://39.101.135.137:8081/zb.txt
 https://iptv.b2og.com/txt/fmml_ipv6.txt
 https://iptv.b2og.com/txt/y_g.txt
 https://iptv.b2og.com/txt/ycl_iptv.txt
+
+# IPTV直播源，分类的，太卡，https://iptv.hacks.tools/
+https://live.hacks.tools/tv/iptv4.txt
+https://live.hacks.tools/tv/ipv4/categories/央视频道.m3u
