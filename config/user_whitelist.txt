@@ -19,6 +19,7 @@ CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV16,http://goo.bkpcp.top/mg/cctv16
 CCTV17,http://goo.bkpcp.top/mg/cctv17
+
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
