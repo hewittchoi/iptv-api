@@ -1,8 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources with one subscription address per line
+#精简订阅源，减少系统测试时间
 # GitHub镜像
 # https://ghfast.top/
 # https://gh-proxy.com/
+
 #【优先】范明明 https://github.com/fanmingming/live
 https://ghproxy.cc/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 
