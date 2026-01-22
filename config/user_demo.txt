@@ -24,7 +24,6 @@ CETV2空中课堂
 CETV3教育服务
 CETV4职业教育
 CETV早期教育
-中国教育电视台
 CCTV4欧洲
 CCTV4美洲
 CCTV4K
@@ -42,6 +41,7 @@ CCTV电视指南
 CCTV世界地理
 CCTV兵器科技
 CCTV卫生健康
+CCTV女性时尚
 CCTV中学生
 CCTV早期教育
 CCTV发现之旅
@@ -50,7 +50,6 @@ CCTV移动传媒
 CGTN
 CGTN新闻
 CGTN英语
-CGTN记录
 CGTN纪录
 CGTN俄语
 CGTN法语
@@ -154,7 +153,7 @@ CGTN阿语
 凤凰资讯
 凤凰香港
 香港卫视
-翡翠台TVB翡翠台 4K
+翡翠台
 翡翠台4K
 黃金翡翠台
 翡翠剧集台(北美)
@@ -217,7 +216,6 @@ Astro Xing He
 NHK東京総合
 纬来体育台
 Hoy 78
-TVB 星河台
 中国香港环球
 MOMOTV
 TVB J1
