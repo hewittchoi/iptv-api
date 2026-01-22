@@ -5,53 +5,6 @@
 # Format: Main name (corresponds to channel name in demo.txt template), alias1, alias2, alias3
 # Aliases support regex matching. Aliases starting with re: are recognized as regular expressions, e\.g\. CCTV-1,re:CCTV[-\s]*0?1(?!\d)
 
-CCTV1综合,CCTV-1,re:CCTV[-\s]*0?1(?!\d),CCTV1,CCTV-01,CCTV-01_ITV,CCTV-01北联,CCTV-01电信,CCTV-01东联,CCTV-01高码,CCTV-01高清,CCTV-01广西,CCTV-01梅州,CCTV-01咪咕,CCTV-01汝阳,CCTV-01山东,CCTV-01上海,CCTV-01斯特,CCTV-01四川,CCTV-01太原,CCTV-01天津,CCTV-01影视,CCTV-01浙江,CCTV-01重庆,CCTV1综合,CCTV-1综合,CCTV1(B),CCTV1[1920*1080],CCTV1「IPV6」,CCTV1HD,CCTV-1HD,CCTV1-标清,CCTV1港澳牿,CCTV-1高清,CCTV1-综合,CCTV-1综合ᴴᴰ
-CCTV2财经,CCTV-2,re:CCTV[-\s]*0?2,CCTV2,CCTV-02,CCTV-02_ITV,CCTV-02北联,CCTV-02电信,CCTV-02东联,CCTV-02高码,CCTV-02高清,CCTV-02广西,CCTV-02梅州,CCTV-02咪咕,CCTV-02汝阳,CCTV-02山东,CCTV-02上海,CCTV-02斯特,CCTV-02四川,CCTV-02太原,CCTV-02天津,CCTV-02影视,CCTV-02浙江,CCTV-02重庆,CCTV2财经,CCTV-2财经,CCTV2[1280*720],CCTV2「IPV6」,CCTV20241,CCTV22,CCTV250,CCTV2HD,CCTV-2HD,CCTV2-标清,CCTV2-财经,CCTV-2财经ᴴᴰ,CCTV-2高清
-CCTV3综艺,CCTV-3,re:CCTV[-\s]*0?3,CCTV3,CCTV-03,CCTV-03_ITV,CCTV-03北联,CCTV-03电信,CCTV-03东联,CCTV-03高码,CCTV-03高清,CCTV-03广西,CCTV-03梅州,CCTV-03咪咕,CCTV-03汝阳,CCTV-03山东,CCTV-03上海,CCTV-03斯特,CCTV-03四川,CCTV-03太原,CCTV-03天津,CCTV-03影视,CCTV-03浙江,CCTV-03重庆,CCTV3综艺,CCTV-3综艺,CCTV3[1920*1080],CCTV3「IPV6」,CCTV3HD,CCTV-3HD,CCTV3-标清,CCTV-3高清,CCTV-3-高清,CCTV3-综艺,CCTV-3综艺ᴴᴰ
-CCTV4中文国际,CCTV-4,re:CCTV[-\s]*0?4,CCTV4,CCTV-04,CCTV-04_ITV,CCTV-04北联,CCTV-04电信,CCTV-04东联,CCTV-04高码,CCTV-04高清,CCTV-04广西,CCTV-04梅州,CCTV-04咪咕,CCTV-04汝阳,CCTV-04山东,CCTV-04上海,CCTV-04斯特,CCTV-04四川,CCTV-04太原,CCTV-04天津,CCTV-04影视,CCTV-04浙江,CCTV-04重庆,CCTV4中文国际,CCTV-4 中文国际,CCTV-4 中文国际 美洲,CCTV-4 中文国际欧洲,CCTV4（美洲）,CCTV4（欧洲）,CCTV4[1280*720],CCTV4[1920*1080],CCTV4「IPV6」,CCTV42,CCTV450,CCTV4HD,CCTV-4HD,CCTV-4K超高渿,CCTV-4标清,CCTV-4高清,CCTV4国际,CCTV4-国际,CCTV4美洲,CCTV-4美洲,CCTV4欧洲,CCTV-4欧洲,CCTV4-中文国际,CCTV-4中文国际,CCTV-4中文国际ᴴᴰ,CCTV4中文国际美洲,CCTV-4中文国际美洲,CCTV4中文国际欧洲,CCTV-4中文国际欧洲
-CCTV5体育,CCTV-5,re:CCTV[-\s]*0?5,CCTV5,CCTV-05,CCTV-05_ITV,CCTV-05北联,CCTV-05电信,CCTV-05东联,CCTV-05高码,CCTV-05高清,CCTV-05广西,CCTV-05梅州,CCTV-05咪咕,CCTV-05汝阳,CCTV-05山东,CCTV-05上海,CCTV-05斯特,CCTV-05四川,CCTV-05太原,CCTV-05天津,CCTV-05影视,CCTV-05浙江,CCTV-05重庆,CCTV5体育,CCTV-5 体育,CCTV-5体育（高码率）,CCTV5[1920*1080],CCTV5「IPV6」,CCTV5HD,CCTV-5HD,CCTV5-标清,CCTV-5高清,CCTV-5-高清,CCTV-5高清测试,CCTV5-体育,CCTV-5体育,CCTV-5体育ᴴᴰ
-CCTV5+体育赛事,CCTV-5+,re:CCTV[-\s]*0?5+,CCTV5+,CCTV5＋,CCTV5+ 体育赛事,CCTV-5+体育赛事,CCTV5+[1920*1080],CCTV-5+_ITV,CCTV5+「IPV6」,CCTV5+HD,CCTV-5+HD,CCTV-5+北联,CCTV-5+电信,CCTV-5+高码,CCTV-5+高清,CCTV-5+广西,CCTV-5+梅州,CCTV-5+咪咕,CCTV-5+汝阳,CCTV-5+四川,CCTV-5+太原,CCTV5+体育赛事,CCTV5+-体育赛事,CCTV-5+体育赛事ᴴᴰ,CCTV-5+天津,CCTV-5+影视,CCTV-5+浙江,CCTV-5+重庆,CCTV5+斯特,CCTV5+体育
-CCTV6电影,CCTV-6,re:CCTV[-\s]*0?6,CCTV6,CCTV-06,CCTV-06_ITV,CCTV-06北联,CCTV-06电信,CCTV-06东联,CCTV-06高码,CCTV-06高清,CCTV-06广西,CCTV-06梅州,CCTV-06咪咕,CCTV-06汝阳,CCTV-06山东,CCTV-06上海,CCTV-06斯特,CCTV-06四川,CCTV-06太原,CCTV-06天津,CCTV-06影视,CCTV-06浙江,CCTV-06重庆,CCTV6电影,CCTV-6电影,CCTV6[1920*1080],CCTV6「IPV6」,CCTV650,CCTV6HD,CCTV-6HD,CCTV6-标清,CCTV6-电影,CCTV-6电影ᴴᴰ,CCTV-6高清,CCTV-6-高清,CCTV-6高清测试
-CCTV7国防军事,CCTV-7,re:CCTV[-\s]*0?7,CCTV7,CCTV7 国防军事,CCTV-7国防军事,CCTV7[1920*1080],CCTV7「IPV6」,CCTV72,CCTV750,CCTV7HD,CCTV-7HD,CCTV7-标清,CCTV-7高清,CCTV7-国防军事,CCTV-7国防军事ᴴᴰ,CCTV7-军农,CCTV-07,CCTV-07_ITV,CCTV-07北联,CCTV-07电信,CCTV-07东联,CCTV-07高码,CCTV-07高清,CCTV-07广西,CCTV-07梅州,CCTV-07咪咕,CCTV-07汝阳,CCTV-07山东,CCTV-07上海,CCTV-07斯特,CCTV-07四川,CCTV-07太原,CCTV-07天津,CCTV-07影视,CCTV-07浙江,CCTV-07重庆,CCTV7军事,CCTV国防军事
-CCTV8电视剧,CCTV-8,re:CCTV[-\s]*0?8,CCTV8,CCTV8 电视剧,CCTV-8电视剧,CCTV8[1920*1080],CCTV8「IPV6」,CCTV8HD,CCTV-8HD,CCTV8-标清,CCTV8-电视剿,CCTV-8电视剿,CCTV8-电视剧,CCTV-8电视剧ᴴᴰ,CCTV-8高清,CCTV-8-高清,CCTV-08,CCTV-08_ITV,CCTV-08北联,CCTV-08电信,CCTV-08东联,CCTV-08高码,CCTV-08高清,CCTV-08广西,CCTV-08梅州,CCTV-08咪咕,CCTV-08汝阳,CCTV-08山东,CCTV-08上海,CCTV-08斯特,CCTV-08四川,CCTV-08太原,CCTV-08天津,CCTV-08影视,CCTV-08浙江,CCTV-08重庆,CCTV8电视剧
-CCTV9纪录,CCTV-9,re:CCTV[-\s]*0?9,CCTV9,CCTV9 纪录,CCTV-9纪录,CCTV9[1920*1080],CCTV9「IPV6」,CCTV92,CCTV950,CCTV9HD,CCTV-9HD,CCTV9-标清,CCTV-9高清,CCTV9-纪录,CCTV-9纪录ᴴᴰ,CCTV-09,CCTV-09_ITV,CCTV-09北联,CCTV-09电信,CCTV-09东联,CCTV-09高码,CCTV-09高清,CCTV-09广西,CCTV-09梅州,CCTV-09咪咕,CCTV-09汝阳,CCTV-09山东,CCTV-09上海,CCTV-09斯特,CCTV-09四川,CCTV-09太原,CCTV-09天津,CCTV-09影视,CCTV-09浙江,CCTV-09重庆,CCTV9纪录
-CCTV10科教,CCTV-10,re:CCTV[-\s]*0?10,CCTV10,CCTV10 科教,CCTV-10科教,CCTV10[1920*1080],CCTV-10_ITV,CCTV10「IPV6」,CCTV102,CCTV1050,CCTV10HD,CCTV-10HD,CCTV-10北联,CCTV10-标清,CCTV-10电信,CCTV-10东联,CCTV-10高码,CCTV-10高清,CCTV-10广西,CCTV10-科教,CCTV-10科教ᴴᴰ,CCTV-10梅州,CCTV-10咪咕,CCTV-10汝阳,CCTV-10山东,CCTV-10上海,CCTV-10斯特,CCTV-10四川,CCTV-10太原,CCTV-10天津,CCTV-10影视,CCTV-10浙江,CCTV-10重庆,CCTV10科教
-CCTV11戏曲,CCTV-11,re:CCTV[-\s]*0?11,CCTV11,CCTV11 戏曲,CCTV-11戏曲,CCTV11[1280*720],CCTV-11_ITV,CCTV11「IPV6」,CCTV1150,CCTV11HD,CCTV-11HD,CCTV-11北联,CCTV11-标清,CCTV-11电信,CCTV-11东联,CCTV-11高码,CCTV-11高清,CCTV-11广西,CCTV-11梅州,CCTV-11咪咕,CCTV-11汝阳,CCTV-11山东,CCTV-11上海,CCTV-11斯特,CCTV-11四川,CCTV-11太原,CCTV-11天津,CCTV11-戏曲,CCTV-11戏曲ᴴᴰ,CCTV-11影视,CCTV-11浙江,CCTV-11重庆,CCTV11戏曲,CCTV戏曲,CCTV-戏曲
-CCTV12社会与法,CCTV-12,re:CCTV[-\s]*0?12,CCTV12,CCTV12 社会与法,CCTV-12 社会与法,CCTV-12社会与法（5.1环绕声）,CCTV12[1920*1080],CCTV-12_ITV,CCTV12「IPV6」,CCTV122,CCTV1250,CCTV12HD,CCTV-12HD,CCTV-12北联,CCTV12-标清,CCTV-12电信,CCTV-12东联,CCTV-12高码,CCTV-12高清,CCTV-12广西,CCTV-12梅州,CCTV-12咪咕,CCTV-12汝阳,CCTV-12山东,CCTV-12上海,CCTV12-社会与法,CCTV-12社会与法,CCTV-12社会与法ᴴᴰ,CCTV-12斯特,CCTV-12四川,CCTV-12太原,CCTV-12天津,CCTV-12影视,CCTV-12浙江,CCTV-12重庆,CCTV12社会与法
-CCTV13新闻,CCTV-13,re:CCTV[-\s]*0?13,CCTV13,CCTV13 新闻,CCTV-13新闻,CCTV13[1920*1080],CCTV13「IPV6」,CCTV1350,CCTV13HD,CCTV-13HD,CCTV-13北联,CCTV13-标清,CCTV-13电信,CCTV-13东联,CCTV-13高码,CCTV-13高清,CCTV-13广西,CCTV-13梅州,CCTV-13咪咕,CCTV-13汝阳,CCTV-13山东,CCTV-13上海,CCTV-13斯特,CCTV-13四川,CCTV-13太原,CCTV-13天津,CCTV13听电视,CCTV13-新闻,CCTV-13新闻ᴴᴰ,CCTV-13影视,CCTV-13浙江,CCTV-13重庆,CCTV13新闻
-CCTV14少儿,CCTV-14,re:CCTV[-\s]*0?14,CCTV14,CCTV14 少儿,CCTV-14少儿,CCTV14[1920*1080],CCTV-14_ITV,CCTV14「IPV6」,CCTV1450,CCTV14HD,CCTV-14HD,CCTV-14北联,CCTV14-标清,CCTV-14电信,CCTV-14东联,CCTV-14高码,CCTV-14高清,CCTV-14广西,CCTV-14梅州,CCTV-14咪咕,CCTV-14汝阳,CCTV-14山东,CCTV-14上海,CCTV14-少儿,CCTV-14少儿ᴴᴰ,CCTV-14斯特,CCTV-14四川,CCTV-14太原,CCTV-14天津,CCTV-14影视,CCTV-14浙江,CCTV-14重庆,CCTV14少儿,CCTV少儿,CCTV-少儿
-CCTV15音乐,CCTV-15,re:CCTV[-\s]*0?15,CCTV15,CCTV15 音乐,CCTV-15音乐,CCTV-15(音乐),CCTV15[1280*720],CCTV-15_ITV,CCTV15「IPV6」,CCTV150,CCTV1550,CCTV15HD,CCTV-15HD,CCTV-15北联,CCTV15-标清,CCTV-15电信,CCTV-15东联,CCTV-15高码,CCTV-15高清,CCTV-15广西,CCTV-15梅州,CCTV-15咪咕,CCTV-15汝阳,CCTV-15山东,CCTV-15上海,CCTV-15斯特,CCTV-15四川,CCTV-15太原,CCTV-15天津,CCTV15-音乐,CCTV-15音乐ᴴᴰ,CCTV-15影视,CCTV-15浙江,CCTV-15重庆,CCTV15音乐,CCTV音乐,CCTV娱乐,CCTV-娱乐
-CCTV16奥林匹克,CCTV-16,re:CCTV[-\s]*0?16,CCTV16,CCTV16 4K,CCTV-16 4K,CCTV16 奥林匹克,CCTV-16 奥林匹克,CCTV-16奥林匹克（5.1环绕声）,CCTV-16奥林匹克4K（5.1环绕声）,CCTV16(4K),CCTV16[1920*1080],CCTV-16_ITV,CCTV16「IPV6」,CCTV16-4K,CCTV-16-4K,CCTV16-4K-25PHLG源,CCTV16HD,CCTV-16HD,CCTV16-奥林匹克,CCTV-16奥林匹克,CCTV16奥林匹克4K,CCTV-16奥林匹克ᴴᴰ,CCTV-16北联,CCTV-16电信,CCTV-16高码,CCTV-16高清,CCTV-16梅州,CCTV-16咪咕,CCTV-16汝阳,CCTV-16太原,CCTV-16天津,CCTV-16影视,CCTV-16浙江,CCTV16体育赛事
-CCTV17农业农村,CCTV-17,re:CCTV[-\s]*0?17,CCTV17,CCTV17 农业农村,CCTV-17 农业农村,CCTV-17农业农村（5.1环绕声）,CCTV17[1920*1080],CCTV-17_ITV,CCTV17「IPV6」,CCTV172,CCTV17HD,CCTV-17HD,CCTV-17北联,CCTV17-标清,CCTV-17电信,CCTV-17高码,CCTV-17高清,CCTV-17广西,CCTV-17梅州,CCTV-17咪咕,CCTV17-农业农村,CCTV-17农业农村,CCTV-17农业农村ᴴᴰ,CCTV-17汝阳,CCTV-17上海,CCTV-17四川,CCTV-17太原,CCTV-17天津,CCTV-17影视,CCTV-17浙江,CCTV-17重庆,CCTV17农业农村
-CCTV4美洲,CCTV-4美洲,re:CCTV[-\s]*0?4.*美洲,CCTV4美洲咪咕
-CCTV-4欧洲,re:CCTV[-\s]*0?4.*欧洲,CCTV4欧洲咪咕
-CCTV4欧洲,CCTV-4K,re:CCTV[-\s]*0?4[Kk],CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
-CCTV8K,CCTV-8K,re:CCTV[-\s]*0?8[Kk],CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
-
-兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
-第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
-发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
-风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD
-风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD
-风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD
-央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
-高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
-怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
-老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
-女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
-世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
-文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
-百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
-中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
-
-CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
-CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
-CETV-3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD
-CETV-4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD
-CETV早教,CETV早期教育,早期教育
-CGTN英语,CGTN英语新闻
-CGTN俄语,CGTN俄罗斯语
-
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
 翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
@@ -133,3 +86,101 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 
 四川卫视,四川卫视4K,四川卫视4K25,四川卫视4K50
 湖南卫视,湖南卫视4K,湖南卫视4K25,湖南卫视4K50
+
+# 🥬📺央视频道,#genre#
+CCTV1综合,CCTV-1,re:.*CCTV[-\s]*0?1(?!\d).*,CCTV1,CCTV-01,CCTV-01_ITV,CCTV-01北联,CCTV-01电信,CCTV-01东联,CCTV-01高码,CCTV-01高清,CCTV-01广西,CCTV-01梅州,CCTV-01咪咕,CCTV-01汝阳,CCTV-01山东,CCTV-01上海,CCTV-01斯特,CCTV-01四川,CCTV-01太原,CCTV-01天津,CCTV-01影视,CCTV-01浙江,CCTV-01重庆,CCTV1综合,CCTV-1综合,CCTV1(B),CCTV1[1920*1080],CCTV1「IPV6」,CCTV1HD,CCTV-1HD,CCTV1-标清,CCTV1港澳牿,CCTV-1高清,CCTV1-综合,CCTV-1综合ᴴᴰ
+CCTV2财经,CCTV-2,re:.*CCTV[-\s]*0?2.*,CCTV2,CCTV-02,CCTV-02_ITV,CCTV-02北联,CCTV-02电信,CCTV-02东联,CCTV-02高码,CCTV-02高清,CCTV-02广西,CCTV-02梅州,CCTV-02咪咕,CCTV-02汝阳,CCTV-02山东,CCTV-02上海,CCTV-02斯特,CCTV-02四川,CCTV-02太原,CCTV-02天津,CCTV-02影视,CCTV-02浙江,CCTV-02重庆,CCTV2财经,CCTV-2财经,CCTV2[1280*720],CCTV2「IPV6」,CCTV20241,CCTV22,CCTV250,CCTV2HD,CCTV-2HD,CCTV2-标清,CCTV2-财经,CCTV-2财经ᴴᴰ,CCTV-2高清
+CCTV3综艺,CCTV-3,re:.*CCTV[-\s]*0?3.*,CCTV3,CCTV-03,CCTV-03_ITV,CCTV-03北联,CCTV-03电信,CCTV-03东联,CCTV-03高码,CCTV-03高清,CCTV-03广西,CCTV-03梅州,CCTV-03咪咕,CCTV-03汝阳,CCTV-03山东,CCTV-03上海,CCTV-03斯特,CCTV-03四川,CCTV-03太原,CCTV-03天津,CCTV-03影视,CCTV-03浙江,CCTV-03重庆,CCTV3综艺,CCTV-3综艺,CCTV3[1920*1080],CCTV3「IPV6」,CCTV3HD,CCTV-3HD,CCTV3-标清,CCTV-3高清,CCTV-3-高清,CCTV3-综艺,CCTV-3综艺ᴴᴰ
+CCTV4中文国际,CCTV-4,re:.*CCTV[-\s]*0?4.*,CCTV4,CCTV-04,CCTV-04_ITV,CCTV-04北联,CCTV-04电信,CCTV-04东联,CCTV-04高码,CCTV-04高清,CCTV-04广西,CCTV-04梅州,CCTV-04咪咕,CCTV-04汝阳,CCTV-04山东,CCTV-04上海,CCTV-04斯特,CCTV-04四川,CCTV-04太原,CCTV-04天津,CCTV-04影视,CCTV-04浙江,CCTV-04重庆,CCTV4中文国际,CCTV-4 中文国际,CCTV-4 中文国际 美洲,CCTV-4 中文国际欧洲,CCTV4（美洲）,CCTV4（欧洲）,CCTV4[1280*720],CCTV4[1920*1080],CCTV4「IPV6」,CCTV42,CCTV450,CCTV4HD,CCTV-4HD,CCTV-4K超高渿,CCTV-4标清,CCTV-4高清,CCTV4国际,CCTV4-国际,CCTV4美洲,CCTV-4美洲,CCTV4欧洲,CCTV-4欧洲,CCTV4-中文国际,CCTV-4中文国际,CCTV-4中文国际ᴴᴰ,CCTV4中文国际美洲,CCTV-4中文国际美洲,CCTV4中文国际欧洲,CCTV-4中文国际欧洲
+CCTV5体育,CCTV-5,re:.*CCTV[-\s]*0?5(?!\+).*,CCTV5,CCTV-05,CCTV-05_ITV,CCTV-05北联,CCTV-05电信,CCTV-05东联,CCTV-05高码,CCTV-05高清,CCTV-05广西,CCTV-05梅州,CCTV-05咪咕,CCTV-05汝阳,CCTV-05山东,CCTV-05上海,CCTV-05斯特,CCTV-05四川,CCTV-05太原,CCTV-05天津,CCTV-05影视,CCTV-05浙江,CCTV-05重庆,CCTV5体育,CCTV-5 体育,CCTV-5体育（高码率）,CCTV5[1920*1080],CCTV5「IPV6」,CCTV5HD,CCTV-5HD,CCTV5-标清,CCTV-5高清,CCTV-5-高清,CCTV-5高清测试,CCTV5-体育,CCTV-5体育,CCTV-5体育ᴴᴰ
+CCTV5+体育赛事,CCTV-5+,re:.*CCTV[-\s]*0?5\+.*,CCTV5+,CCTV5＋,CCTV5+ 体育赛事,CCTV-5+体育赛事,CCTV5+[1920*1080],CCTV-5+_ITV,CCTV5+「IPV6」,CCTV5+HD,CCTV-5+HD,CCTV-5+北联,CCTV-5+电信,CCTV-5+高码,CCTV-5+高清,CCTV-5+广西,CCTV-5+梅州,CCTV-5+咪咕,CCTV-5+汝阳,CCTV-5+四川,CCTV-5+太原,CCTV5+体育赛事,CCTV5+-体育赛事,CCTV-5+体育赛事ᴴᴰ,CCTV-5+天津,CCTV-5+影视,CCTV-5+浙江,CCTV-5+重庆,CCTV5+斯特,CCTV5+体育
+CCTV6电影,CCTV-6,re:.*CCTV[-\s]*0?6.*,CCTV6,CCTV-06,CCTV-06_ITV,CCTV-06北联,CCTV-06电信,CCTV-06东联,CCTV-06高码,CCTV-06高清,CCTV-06广西,CCTV-06梅州,CCTV-06咪咕,CCTV-06汝阳,CCTV-06山东,CCTV-06上海,CCTV-06斯特,CCTV-06四川,CCTV-06太原,CCTV-06天津,CCTV-06影视,CCTV-06浙江,CCTV-06重庆,CCTV6电影,CCTV-6电影,CCTV6[1920*1080],CCTV6「IPV6」,CCTV650,CCTV6HD,CCTV-6HD,CCTV6-标清,CCTV6-电影,CCTV-6电影ᴴᴰ,CCTV-6高清,CCTV-6-高清,CCTV-6高清测试
+CCTV7国防军事,CCTV-7,re:.*CCTV[-\s]*0?7.*,CCTV7,CCTV7 国防军事,CCTV-7国防军事,CCTV7[1920*1080],CCTV7「IPV6」,CCTV72,CCTV750,CCTV7HD,CCTV-7HD,CCTV7-标清,CCTV-7高清,CCTV7-国防军事,CCTV-7国防军事ᴴᴰ,CCTV7-军农,CCTV-07,CCTV-07_ITV,CCTV-07北联,CCTV-07电信,CCTV-07东联,CCTV-07高码,CCTV-07高清,CCTV-07广西,CCTV-07梅州,CCTV-07咪咕,CCTV-07汝阳,CCTV-07山东,CCTV-07上海,CCTV-07斯特,CCTV-07四川,CCTV-07太原,CCTV-07天津,CCTV-07影视,CCTV-07浙江,CCTV-07重庆,CCTV7军事,CCTV国防军事
+CCTV8电视剧,CCTV-8,re:.*CCTV[-\s]*0?8.*,CCTV8,CCTV8 电视剧,CCTV-8电视剧,CCTV8[1920*1080],CCTV8「IPV6」,CCTV8HD,CCTV-8HD,CCTV8-标清,CCTV8-电视剿,CCTV-8电视剿,CCTV8-电视剧,CCTV-8电视剧ᴴᴰ,CCTV-8高清,CCTV-8-高清,CCTV-08,CCTV-08_ITV,CCTV-08北联,CCTV-08电信,CCTV-08东联,CCTV-08高码,CCTV-08高清,CCTV-08广西,CCTV-08梅州,CCTV-08咪咕,CCTV-08汝阳,CCTV-08山东,CCTV-08上海,CCTV-08斯特,CCTV-08四川,CCTV-08太原,CCTV-08天津,CCTV-08影视,CCTV-08浙江,CCTV-08重庆,CCTV8电视剧
+CCTV9纪录,CCTV-9,re:.*CCTV[-\s]*0?9.*,CCTV9,CCTV9 纪录,CCTV-9纪录,CCTV9[1920*1080],CCTV9「IPV6」,CCTV92,CCTV950,CCTV9HD,CCTV-9HD,CCTV9-标清,CCTV-9高清,CCTV9-纪录,CCTV-9纪录ᴴᴰ,CCTV-09,CCTV-09_ITV,CCTV-09北联,CCTV-09电信,CCTV-09东联,CCTV-09高码,CCTV-09高清,CCTV-09广西,CCTV-09梅州,CCTV-09咪咕,CCTV-09汝阳,CCTV-09山东,CCTV-09上海,CCTV-09斯特,CCTV-09四川,CCTV-09太原,CCTV-09天津,CCTV-09影视,CCTV-09浙江,CCTV-09重庆,CCTV9纪录
+CCTV10科教,CCTV-10,re:.*CCTV[-\s]*0?10.*,CCTV10,CCTV10 科教,CCTV-10科教,CCTV10[1920*1080],CCTV-10_ITV,CCTV10「IPV6」,CCTV102,CCTV1050,CCTV10HD,CCTV-10HD,CCTV-10北联,CCTV10-标清,CCTV-10电信,CCTV-10东联,CCTV-10高码,CCTV-10高清,CCTV-10广西,CCTV10-科教,CCTV-10科教ᴴᴰ,CCTV-10梅州,CCTV-10咪咕,CCTV-10汝阳,CCTV-10山东,CCTV-10上海,CCTV-10斯特,CCTV-10四川,CCTV-10太原,CCTV-10天津,CCTV-10影视,CCTV-10浙江,CCTV-10重庆,CCTV10科教
+CCTV11戏曲,CCTV-11,re:.*CCTV[-\s]*0?11.*,CCTV11,CCTV11 戏曲,CCTV-11戏曲,CCTV11[1280*720],CCTV-11_ITV,CCTV11「IPV6」,CCTV1150,CCTV11HD,CCTV-11HD,CCTV-11北联,CCTV11-标清,CCTV-11电信,CCTV-11东联,CCTV-11高码,CCTV-11高清,CCTV-11广西,CCTV-11梅州,CCTV-11咪咕,CCTV-11汝阳,CCTV-11山东,CCTV-11上海,CCTV-11斯特,CCTV-11四川,CCTV-11太原,CCTV-11天津,CCTV11-戏曲,CCTV-11戏曲ᴴᴰ,CCTV-11影视,CCTV-11浙江,CCTV-11重庆,CCTV11戏曲,CCTV戏曲,CCTV-戏曲
+CCTV12社会与法,CCTV-12,re:.*CCTV[-\s]*0?12.*,CCTV12,CCTV12 社会与法,CCTV-12 社会与法,CCTV-12社会与法（5.1环绕声）,CCTV12[1920*1080],CCTV-12_ITV,CCTV12「IPV6」,CCTV122,CCTV1250,CCTV12HD,CCTV-12HD,CCTV-12北联,CCTV12-标清,CCTV-12电信,CCTV-12东联,CCTV-12高码,CCTV-12高清,CCTV-12广西,CCTV-12梅州,CCTV-12咪咕,CCTV-12汝阳,CCTV-12山东,CCTV-12上海,CCTV12-社会与法,CCTV-12社会与法,CCTV-12社会与法ᴴᴰ,CCTV-12斯特,CCTV-12四川,CCTV-12太原,CCTV-12天津,CCTV-12影视,CCTV-12浙江,CCTV-12重庆,CCTV12社会与法
+CCTV13新闻,CCTV-13,re:.*CCTV[-\s]*0?13.*,CCTV13,CCTV13 新闻,CCTV-13新闻,CCTV13[1920*1080],CCTV13「IPV6」,CCTV1350,CCTV13HD,CCTV-13HD,CCTV-13北联,CCTV13-标清,CCTV-13电信,CCTV-13东联,CCTV-13高码,CCTV-13高清,CCTV-13广西,CCTV-13梅州,CCTV-13咪咕,CCTV-13汝阳,CCTV-13山东,CCTV-13上海,CCTV-13斯特,CCTV-13四川,CCTV-13太原,CCTV-13天津,CCTV13听电视,CCTV13-新闻,CCTV-13新闻ᴴᴰ,CCTV-13影视,CCTV-13浙江,CCTV-13重庆,CCTV13新闻
+CCTV14少儿,CCTV-14,re:.*CCTV[-\s]*0?14.*,CCTV14,CCTV14 少儿,CCTV-14少儿,CCTV14[1920*1080],CCTV-14_ITV,CCTV14「IPV6」,CCTV1450,CCTV14HD,CCTV-14HD,CCTV-14北联,CCTV14-标清,CCTV-14电信,CCTV-14东联,CCTV-14高码,CCTV-14高清,CCTV-14广西,CCTV-14梅州,CCTV-14咪咕,CCTV-14汝阳,CCTV-14山东,CCTV-14上海,CCTV14-少儿,CCTV-14少儿ᴴᴰ,CCTV-14斯特,CCTV-14四川,CCTV-14太原,CCTV-14天津,CCTV-14影视,CCTV-14浙江,CCTV-14重庆,CCTV14少儿,CCTV少儿,CCTV-少儿
+CCTV15音乐,CCTV-15,re:.*CCTV[-\s]*0?15.*,CCTV15,CCTV15 音乐,CCTV-15音乐,CCTV-15(音乐),CCTV15[1280*720],CCTV-15_ITV,CCTV15「IPV6」,CCTV150,CCTV1550,CCTV15HD,CCTV-15HD,CCTV-15北联,CCTV15-标清,CCTV-15电信,CCTV-15东联,CCTV-15高码,CCTV-15高清,CCTV-15广西,CCTV-15梅州,CCTV-15咪咕,CCTV-15汝阳,CCTV-15山东,CCTV-15上海,CCTV-15斯特,CCTV-15四川,CCTV-15太原,CCTV-15天津,CCTV15-音乐,CCTV-15音乐ᴴᴰ,CCTV-15影视,CCTV-15浙江,CCTV-15重庆,CCTV15音乐,CCTV音乐,CCTV娱乐,CCTV-娱乐
+CCTV16奥林匹克,CCTV-16,re:.*CCTV[-\s]*0?16.*,CCTV16,CCTV16 4K,CCTV-16 4K,CCTV16 奥林匹克,CCTV-16 奥林匹克,CCTV-16奥林匹克（5.1环绕声）,CCTV-16奥林匹克4K（5.1环绕声）,CCTV16(4K),CCTV16[1920*1080],CCTV-16_ITV,CCTV16「IPV6」,CCTV16-4K,CCTV-16-4K,CCTV16-4K-25PHLG源,CCTV16HD,CCTV-16HD,CCTV16-奥林匹克,CCTV-16奥林匹克,CCTV16奥林匹克4K,CCTV-16奥林匹克ᴴᴰ,CCTV-16北联,CCTV-16电信,CCTV-16高码,CCTV-16高清,CCTV-16梅州,CCTV-16咪咕,CCTV-16汝阳,CCTV-16太原,CCTV-16天津,CCTV-16影视,CCTV-16浙江,CCTV16体育赛事
+CCTV17农业农村,CCTV-17,re:.*CCTV[-\s]*0?17.*,CCTV17,CCTV17 农业农村,CCTV-17 农业农村,CCTV-17农业农村（5.1环绕声）,CCTV17[1920*1080],CCTV-17_ITV,CCTV17「IPV6」,CCTV172,CCTV17HD,CCTV-17HD,CCTV-17北联,CCTV17-标清,CCTV-17电信,CCTV-17高码,CCTV-17高清,CCTV-17广西,CCTV-17梅州,CCTV-17咪咕,CCTV17-农业农村,CCTV-17农业农村,CCTV-17农业农村ᴴᴰ,CCTV-17汝阳,CCTV-17上海,CCTV-17四川,CCTV-17太原,CCTV-17天津,CCTV-17影视,CCTV-17浙江,CCTV-17重庆,CCTV17农业农村
+
+# 🥬💰央视付费,#genre#
+CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
+CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
+CETV-3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD
+CETV-4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD
+CETV早教,CETV早期教育,早期教育
+中国教育电视台,中国教育
+CCTV4美洲,CCTV-4美洲,re:CCTV[-\s]*0?4.*美洲,CCTV4美洲咪咕
+CCTV-4欧洲,re:CCTV[-\s]*0?4.*欧洲,CCTV4欧洲咪咕
+CCTV4欧洲,CCTV-4K,re:CCTV[-\s]*0?4[Kk],CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
+CCTV8K,CCTV-8K,re:CCTV[-\s]*0?8[Kk],CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
+兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
+第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
+发现之旅,CCTV发现之旅,CCTV-发现之旅,中央新影-发现之旅
+风云剧场,CCTV风云剧场,CCTV-风云剧场,CCTV风云剧场HD
+风云音乐,CCTV风云音乐,CCTV-风云音乐,CCTV风云音乐HD
+风云足球,CCTV风云足球,CCTV-风云足球,CCTV风云足球HD
+央视台球,CCTV央视台球,CCTV-央视台球,CCTV央视台球HD,CCTV-台球
+高尔夫网球,CCTV高尔夫球,CCTV高尔夫·网球,CCTV-高尔夫网琿,CCTV高尔夫网球,CCTV-高尔夫网球,CCTV高尔夫网球HD,CCTV-央视高网
+怀旧剧场,CCTV怀旧剧场,CCTV-怀旧剧场,CCTV怀旧剧场HD,CCTV怀旧剧圿,CCTV-怀旧剧圿
+老故事,CCTV老故事,CCTV-老故事,CCTV老故亿,中央新影-老故事,中央新影-老故亿,重温经典
+女性时尚,CCTV女性时尿,CCTV-女性时尿,CCTV女性时尚,CCTV-女性时尚,CCTV女性时尚HD
+世界地理,CCTV世界地理,CCTV-世界地理,CCTV世界地理HD
+文化精品,CCTV文化精品,CCTV-文化精品,CCTV央视文化精品,CCTV-央视文化精品,CCTV央视文化精品HD
+百姓健康,CCTV卫生健康,CCTV-卫生健康,CCTV卫生与健康
+中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,中央新影-中学生
+
+CGTN英语,CGTN英语新闻
+CGTN俄语,CGTN俄罗斯语
+
+# 🥬📡卫视频道,#genre#
+香港卫视,re:.*(?:香港|香江)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,香港台,香港电视台,香港衛視,香港電視台,香江衛視
+广东卫视,re:.*(?:广东|廣東)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,广东台,广东电视台,廣東衛視,廣東電視台
+深圳卫视,re:.*深圳[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,深圳台,深圳电视台,深圳衛視,深圳電視台
+大湾区卫视,re:.*(?:大湾区|大灣區|粵港澳)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,大湾区台,大湾区电视台,大灣區衛視,大灣區電視台,粵港澳衛視
+湖南卫视,re:.*(?:湖南|湘)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,湖南台,湖南电视台,湖南衛視,湖南電視台,湘台,湘衛視
+浙江卫视,re:.*(?:浙江|浙)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,浙江台,浙江电视台,浙江衛視,浙江電視台,浙台,浙衛視
+江苏卫视,re:.*(?:江苏|江蘇|苏|蘇)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,江苏台,江苏电视台,江蘇衛視,江蘇電視台,苏台,蘇衛視
+广西卫视,re:.*(?:广西|廣西|桂)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,广西台,广西电视台,廣西衛視,廣西電視台,桂台,桂衛視
+东南卫视,re:.*(?:东南|東南)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,东南台,东南电视台,東南衛視,東南電視台
+厦门卫视,re:.*(?:厦门|廈門|厦|廈)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,厦门台,厦门电视台,廈門衛視,廈門電視台,厦视,廈視
+北京卫视,re:.*(?:北京|京)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,北京台,北京电视台,北京衛視,北京電視台,BTV,京台,京衛視
+天津卫视,re:.*(?:天津|津)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,天津台,天津电视台,天津衛視,天津電視台,津台,津衛視
+东方卫视,re:.*(?:东方|東方)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,东方台,东方电视台,東方衛視,東方電視台,DragonTV,上海东方卫视
+黑龙江卫视,re:.*(?:黑龙江|黑龍江|龙江|龍江)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,黑龙江台,黑龙江电视台,黑龍江衛視,黑龍江電視台,龙江卫视,龍江衛視
+辽宁卫视,re:.*(?:辽宁|遼寧|辽|遼)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,辽宁台,辽宁电视台,遼寧衛視,遼寧電視台,辽台,遼台
+吉林卫视,re:.*(?:吉林|吉)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,吉林台,吉林电视台,吉林衛視,吉林電視台,吉台,吉衛視
+湖北卫视,re:.*(?:湖北|鄂)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,湖北台,湖北电视台,湖北衛視,湖北電視台,鄂台,鄂衛視
+山东卫视,re:.*(?:山东|山東|鲁|魯)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,山东台,山东电视台,山東衛視,山東電視台,鲁台,魯衛視
+安徽卫视,re:.*(?:安徽|皖)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,安徽台,安徽电视台,安徽衛視,安徽電視台,皖台,皖衛視
+河北卫视,re:.*(?:河北|冀)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,河北台,河北电视台,河北衛視,河北電視台,冀台,冀衛視
+河南卫视,re:.*(?:河南|豫)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,河南台,河南电视台,河南衛視,河南電視台,豫台,豫衛視
+贵州卫视,re:.*(?:贵州|貴州|黔)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,贵州台,贵州电视台,貴州衛視,貴州電視台,黔台,黔衛視
+重庆卫视,re:.*(?:重庆|重慶|渝)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,重庆台,重庆电视台,重慶衛視,重慶電視台,渝台,渝衛視
+四川卫视,re:.*(?:四川|川)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,四川台,四川电视台,四川衛視,四川電視台,川台,川衛視
+江西卫视,re:.*(?:江西|赣|贛)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,江西台,江西电视台,江西衛視,江西電視台,赣台,贛衛視
+云南卫视,re:.*(?:云南|雲南|滇)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,云南台,云南电视台,雲南衛視,雲南電視台,滇台,滇衛視
+延边卫视,re:.*(?:延边|延邊)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,延边台,延边电视台,延邊衛視,延邊電視台,延邊台
+新疆卫视,re:.*(?:新疆|新)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,新疆台,新疆电视台,新疆衛視,新疆電視台,新台,新衛視
+青海卫视,re:.*(?:青海|青)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,青海台,青海电视台,青海衛視,青海電視台,青台,青衛視
+内蒙古卫视,re:.*(?:内蒙古|內蒙古|蒙)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,内蒙古台,内蒙古电视台,內蒙古衛視,內蒙古電視台,蒙台,蒙衛視
+宁夏卫视,re:.*(?:宁夏|寧夏|宁|寧)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,宁夏台,宁夏电视台,寧夏衛視,寧夏電視台,宁台,寧台
+甘肃卫视,re:.*(?:甘肃|甘肅|陇|隴)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,甘肃台,甘肃电视台,甘肅衛視,甘肅電視台,陇台,隴衛視
+陕西卫视,re:.*(?:陕西|陝西|秦)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,陕西台,陕西电视台,陝西衛視,陝西電視台,秦台,秦衛視
+山西卫视,re:.*(?:山西|晋|晉)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,山西台,山西电视台,山西衛視,山西電視台,晋台,晉衛視
+农林卫视,re:.*(?:农林|農林|农业|農業)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,农林台,农林电视台,農林衛視,農林電視台,农业卫视,農業衛視
+兵团卫视,re:.*(?:兵团|兵團)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,兵团台,兵团电视台,兵團衛視,兵團電視台,新疆兵团卫视
+西藏卫视,re:.*(?:西藏|藏)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,西藏台,西藏电视台,西藏衛視,西藏電視台,藏台,藏衛視
+海南卫视,re:.*(?:海南|琼|瓊)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,海南台,海南电视台,海南衛視,海南電視台,琼台,瓊衛視
+三沙卫视,re:.*三沙[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,三沙台,三沙电视台,三沙衛視,三沙電視台
+海峡卫视,re:.*(?:海峡|海峽)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,海峡台,海峡电视台,海峽衛視,海峽電視台
+康巴卫视,re:.*康巴[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,康巴台,康巴电视台,康巴衛視,康巴電視台
+安多卫视,re:.*安多[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,安多台,安多电视台,安多衛視,安多電視台
+龙江卫视,re:.*(?:龙江|龍江)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,龙江台,龙江电视台,龍江衛視,龍江電視台,黑龙江都市频道
+莲花卫视,re:.*(?:莲花|蓮花)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,莲花台,莲花电视台,蓮花衛視,蓮花電視台,Macau Lotus TV
+
+
