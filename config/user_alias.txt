@@ -267,7 +267,8 @@ Astro QJ,re:.*Astro[.\s]*QJ.*,Astro QJ频道,Astro QJ Channel,马来西亚Astro 
 Astro Xing He,re:.*Astro[.\s]*Xing[.\s]*He.*,Astro星河,Astro Xing He频道,Astro Xing He Channel,Astro星河频道
 NHK東京総合,re:.*NHK[.\s]*東京総?合.*,NHK东京综合,NHK東京綜合,NHK Tokyo General,NHK东京台,NHK东京综合频道
 纬来体育台,re:.*纬来体育.*,纬来体育,纬来体育频道,VL Sports,緯來體育,緯來體育台,VL体育
-Hoy 78,re:.*Hoy[.\s]*78.*,Hoy 78台,Hoy 78频道,Hoy78,香港开电视78,OpenTV 78
+HOY77,Hoy 77,.*Hoy[.\s]*77.*
+H0Y78,Hoy 78,re:.*Hoy[.\s]*78.*,Hoy 78台,Hoy 78频道,Hoy78,香港开电视78,OpenTV 78
 中国香港环球,re:.*(?:中国香港环球|香港环球).*,香港环球频道,Hong Kong Global,香港环球电视台,中国香港环球频道,HK Global
 MOMOTV,re:.*MOMO[.\s]*TV.*,MOMO TV,MOMO电视台,MOMO频道,MOMO TV台,MOMO TV Channel
 香港33台,re:.*香港[33]*,香港33,香港33频道,Hong Kong 33,港台33,香港電視33
