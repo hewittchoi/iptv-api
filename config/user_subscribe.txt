@@ -75,8 +75,8 @@ https://ghproxy.cc/https://raw.githubusercontent.com/Moexin/IPTV/refs/heads/File
 # yuanzl77，每日三更新
 https://ghproxy.cc/https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 
-# 【优先】APTK更新地址
-http://aktv.top/live.txt
+# 【已失效】APTK更新地址
+# http://aktv.top/live.txt
 # 【优先】肥羊-见telegram
 
 # 公众号榴芒电视 找资源
