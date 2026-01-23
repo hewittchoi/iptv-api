@@ -178,7 +178,6 @@ TVB J5
 美亚C+
 东方卫视国际
 娛樂新聞台(HK)
-日本全天新聞
 美亞電影台(HK)
 龍華日韓台
 龍華經典台
@@ -199,7 +198,6 @@ DW
 France 24
 KIX
 Love Nature HD
-NHK World-Japan
 Nick Jr
 Nickelodeon
 ROCK Action
@@ -289,18 +287,7 @@ Channel[V]
 大爱1台
 大爱2台
 唯心电视
-CGNTV
-CGNTV1
-CGNTV2
-CGNTV3
-CGNTV4
-CGNTV5
-CGNTV6
-CGNTV7
-CGNTV8
-CGNTV9
-CGNTV10
-CGNTV11
+
 
 🥬🎬电影频道,#genre#
 1905电影
@@ -739,6 +726,9 @@ X战警【虎牙】
 电影_贺岁片
 
 🥬📺国际频道,#genre#
+新传媒5频道【新】
+新传媒8频道【新】
+新加坡U频道【新】
 日本全天新闻
 BBC News
 CNA
@@ -782,6 +772,18 @@ TBS
 Love Nature
 Fight Network
 Wild Earth
+CGNTV
+CGNTV1
+CGNTV2
+CGNTV3
+CGNTV4
+CGNTV5
+CGNTV6
+CGNTV7
+CGNTV8
+CGNTV9
+CGNTV10
+CGNTV11
 
 🇨🇳北京频道,#genre#
 北京卫视

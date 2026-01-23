@@ -242,9 +242,6 @@ TVB J5,TVBJ5,J5,tvbj5
 Now星影台,re:.*Now[.\s]*星影.*,Now Star Movie,Now星影,Now Star Cinema,Now Star Movie Channel
 千禧經典台(HK),re:.*千禧經典.*(?:\(HK\)|HK|香港)?.*,千禧经典台HK,Millennium Classic HK,千禧經典電影台HK,Millennium Classic Movie Channel Hong Kong
 28 AI 智慧賽馬,re:.*28[.\s]*AI[.\s]*智慧[賽赛]馬.*,28 AI智慧赛马,28 AI賽馬,28 AI Smart Racing,28 AI Horse Racing,28 AI賽馬頻道
-Channel 5 HD,re:.*Channel[.\s]*5.*,第五频道,Channel 5,Channel 5高清,新加坡第五频道,Singapore Channel 5
-Channel 8 HD,re:.*Channel[.\s]*8.*,第八频道,Channel 8,Channel 8高清,新加坡第八频道,Singapore Channel 8
-Channel U HD,re:.*Channel[.\s]*U.*,U频道,Channel U,Channel U高清,新加坡U频道,Singapore Channel U
 myTV SUPER 18台,re:.*myTV[.\s]*SUPER[.\s]*18.*,myTV SUPER 18,myTV SUPER 18频道,myTV SUPER 18 Channel,myTV SUPER十八台
 PopC,re:.*PopC.*,PopC频道,PopC Channel,PopC动漫,PopC Anime,PopCartoon
 tvN,re:.*tvN.*,tvN频道,tvN Korea,tvN韩剧,tvN电视台,tvN Channel,朝鲜tvN
@@ -256,7 +253,6 @@ DW,re:.*DW.*,德国之声,DW电视台,DW TV,Deutsche Welle,DW News,DW Documentar
 France 24,re:.*France[.\s]*24.*,法国24台,France 24 English,France 24 French,法国24小时新闻,France 24 News
 KIX,re:.*KIX.*,KIX频道,KIX TV,KIX动作电影,KIX Action,KIX Movie Channel
 Love Nature HD,re:.*Love[.\s]*Nature.*,Love Nature,Love Nature频道,Love Nature高清,Love Nature野生动物,Love Nature Documentary
-NHK World-Japan,re:.*NHK[.\s]*World[.\s]*-?[.\s]*Japan.*,NHK World Japan,NHK国际日本,NHK World,NHKワールド,NHK世界台
 Nick Jr,re:.*Nick[.\s]*Jr.*,Nick Jr频道,尼克少儿,Nick Junior,尼克幼儿,Nick Jr儿童频道
 Nickelodeon,re:.*Nickelodeon.*,尼克儿童频道,尼克卡通,Nick,尼克,Nickelodeon Asia
 ROCK Action,re:.*ROCK[.\s]*Action.*,Rock Action,ROCK动作台,ROCK动作电影,ROCK Action Movies,ROCK动作频道
@@ -347,18 +343,7 @@ Channel[V],re:.*Channel[^a-zA-Z0-9]*[Vv].*,Channel V台,Channel V International
 大爱1台,re:.*[大大][爱愛][一1][台臺]?.*,大爱一台,DaAi One,DaAi TV1
 大爱2台,re:.*[大大][爱愛][二2][台臺]?.*,大爱二台,DaAi Two,DaAi TV2
 唯心电视,re:.*[唯唯][心心][电電][视視].*,唯心电视台,Weixin TV
-CGNTV,re:.*CGNTV(?!\d).*,CGNTV频道,China Global Network TV
-CGNTV1,re:.*CGNTV[^a-zA-Z0-9]*1.*,CGNTV1台,CGNTV Channel 1
-CGNTV2,re:.*CGNTV[^a-zA-Z0-9]*2.*,CGNTV2台,CGNTV Channel 2
-CGNTV3,re:.*CGNTV[^a-zA-Z0-9]*3.*,CGNTV3台,CGNTV Channel 3
-CGNTV4,re:.*CGNTV[^a-zA-Z0-9]*4.*,CGNTV4台,CGNTV Channel 4
-CGNTV5,re:.*CGNTV[^a-zA-Z0-9]*5.*,CGNTV5台,CGNTV Channel 5
-CGNTV6,re:.*CGNTV[^a-zA-Z0-9]*6.*,CGNTV6台,CGNTV Channel 6
-CGNTV7,re:.*CGNTV[^a-zA-Z0-9]*7.*,CGNTV7台,CGNTV Channel 7
-CGNTV8,re:.*CGNTV[^a-zA-Z0-9]*8.*,CGNTV8台,CGNTV Channel 8
-CGNTV9,re:.*CGNTV[^a-zA-Z0-9]*9.*,CGNTV9台,CGNTV Channel 9
-CGNTV10,re:.*CGNTV[^a-zA-Z0-9]*10.*,CGNTV10台,CGNTV Channel 10
-CGNTV11,re:.*CGNTV[^a-zA-Z0-9]*11.*,CGNTV11台,CGNTV Channel 11
+
 # 🥬🎬电影频道,#genre#
 1905电影,re:.*1905[^a-zA-Z0-9]*[电電][影影].*,1905电影网,1905 Movie Channel
 1905电影亚洲,re:.*1905[^a-zA-Z0-9]*[电電][影影][^a-zA-Z0-9]*[亚亞][洲洲].*,1905电影亚洲频道,1905 Movie Asia,1905电影(亚洲),1905电影网(亚洲),1905电影(国内),1905电影网(国内),1905电影网国内,1905亚洲电影
@@ -771,6 +756,10 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 电影_贺岁片,re:.*[电電][影影][^a-zA-Z0-9]*[贺賀][岁歲][片片].*,电影_贺岁片频道,Movie_New Year Film
 
 # 🥬📺国际频道,#genre#
+新传媒5频道【新】,Channel5,Channel 5,新传媒电视5频道,新传媒5频道,新传媒5台,M5,MediaCorp Channel 5,Channel 5 HD,re:.*Channel[.\s]*5.*,第五频道,Channel 5,Channel 5高清,新加坡第五频道,Singapore Channel 5
+新传媒8频道【新】,Channel8,Channel 8,新传媒电视8频道,新传媒8频道,新传媒8台,第八波道,M8,MediaCorp Channel 8,Channel 8 HD,re:.*Channel[.\s]*8.*,第八频道,Channel 8,Channel 8高清,新加坡第八频道,Singapore Channel 8
+新加坡U频道【新】,ChannelU,Channel U,新传媒电视U频道,Channel U HD,re:.*Channel[.\s]*U.*,U频道,Channel U,Channel U高清,新加坡U频道,Singapore Channel U,MediaCorp Channel U
+日本全天新闻,日本全天新聞,NHK World-Japan,NHK World Japan,re:.*NHK[.\s]*World[.\s]*-?[.\s]*Japan.*,NHK国际日本,NHK World,NHKワールド,NHK世界台
 BBC News,re:.*BBC[^a-zA-Z0-9]*News.*,BBC新闻,BBC World News
 CNA,re:.*CNA.*,CNA新闻,Channel NewsAsia
 NBC News Now,re:.*NBC[^a-zA-Z0-9]*News[^a-zA-Z0-9]*Now.*,NBC新闻现在,NBC News Now
@@ -813,5 +802,16 @@ TBS,re:.*TBS.*,TBS电视台,Tokyo Broadcasting System
 Love Nature,re:.*Love[^a-zA-Z0-9]*Nature.*,热爱自然频道,Love Nature
 Fight Network,re:.*Fight[^a-zA-Z0-9]*Network.*,格斗网络频道,Fight Network
 Wild Earth,re:.*Wild[^a-zA-Z0-9]*Earth.*,野生地球频道,Wild Earth
-
+CGNTV,re:.*CGNTV(?!\d).*,CGNTV频道,China Global Network TV
+CGNTV1,re:.*CGNTV[^a-zA-Z0-9]*1.*,CGNTV1台,CGNTV Channel 1
+CGNTV2,re:.*CGNTV[^a-zA-Z0-9]*2.*,CGNTV2台,CGNTV Channel 2
+CGNTV3,re:.*CGNTV[^a-zA-Z0-9]*3.*,CGNTV3台,CGNTV Channel 3
+CGNTV4,re:.*CGNTV[^a-zA-Z0-9]*4.*,CGNTV4台,CGNTV Channel 4
+CGNTV5,re:.*CGNTV[^a-zA-Z0-9]*5.*,CGNTV5台,CGNTV Channel 5
+CGNTV6,re:.*CGNTV[^a-zA-Z0-9]*6.*,CGNTV6台,CGNTV Channel 6
+CGNTV7,re:.*CGNTV[^a-zA-Z0-9]*7.*,CGNTV7台,CGNTV Channel 7
+CGNTV8,re:.*CGNTV[^a-zA-Z0-9]*8.*,CGNTV8台,CGNTV Channel 8
+CGNTV9,re:.*CGNTV[^a-zA-Z0-9]*9.*,CGNTV9台,CGNTV Channel 9
+CGNTV10,re:.*CGNTV[^a-zA-Z0-9]*10.*,CGNTV10台,CGNTV Channel 10
+CGNTV11,re:.*CGNTV[^a-zA-Z0-9]*11.*,CGNTV11台,CGNTV Channel 11
 
