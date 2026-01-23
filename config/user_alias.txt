@@ -620,7 +620,7 @@ NewTV古装剧场,古装剧场,re:.*[古古][装裝][剧劇][场場][频頻][道
 NewTV军旅剧场,军旅剧场,re:.*[军軍][旅旅][剧劇][场場][频頻][道道]?.* ,军旅剧场频道,Military Drama Theater
 NewTV热播精选,热播精选,re:.*[热熱][播播][精精][选選][频頻][道道]?.* ,热播精选频道,Hot Pick
 NewTV精品大剧,精品大剧,re:.*[精精][品品][大大][剧劇][频頻][道道]?.* ,精品大剧频道,Boutique Blockbuster Drama
-NewTV爱情喜剧,爱情喜剧,re:.*[爱愛][情情][喜喜][剧劇][频頻][道道]?.* ,爱情喜剧频道,Romantic Comedy
+NewTV爱情喜剧,爱情喜剧,re:.*[爱愛][情情][喜喜][剧劇][频頻][道道]?.* ,爱情喜剧频道,Romantic Comedy,NEWTV爱情喜剧,爱情喜剧
 NewTV惊悚悬疑,惊悚悬疑,re:.*[惊驚][悚悚][悬懸][疑疑][频頻][道道]?.* ,惊悚悬疑频道,Thriller Suspense
 NewTV明星大片,明星大片,re:.*[明星][星大][片大][片频][频道道]?.* ,明星大片频道,Star Blockbusters
 NewTV明星剧场,明星剧场,re:.*[明星][星剧][剧场][场频][频道道]?.* ,明星剧场频道,Star Theater
@@ -642,7 +642,6 @@ NewTV睛彩羽毛球
 NewTV睛彩竞技
 NewTV睛彩青少
 NewTV睛彩广场舞
-NewTV爱情喜剧,NEWTV爱情喜剧,爱情喜剧
 NewTV超级体育,NEWTV超级体育,超级体育
 NewTV古装剧场,NEWTV古装剧场,古装剧场
 NewTV海外剧场,NEWTV海外剧场,海外剧场
