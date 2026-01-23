@@ -135,6 +135,16 @@ HOY77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 八度空间频高,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 
+玄幻虎牙,http://cfss.cc/cdn/hy/11342414.m3u8
+喜剧虎牙,http://cfss.cc/cdn/hy/11352877.m3u8
+国产虎牙,http://cfss.cc/cdn/hy/11352973.m3u8
+警匪虎牙,http://cfss.cc/cdn/hy/11352886.m3u8
+罪犯虎牙,http://cfss.cc/cdn/hy/11352962.m3u8
+枪战虎牙,http://cfss.cc/cdn/hy/21059579.m3u8
+推荐虎牙,http://cfss.cc/cdn/hy/11602041.m3u8
+热血虎牙,http://cfss.cc/cdn/hy/11352934.m3u8
+谍战虎牙,http://cfss.cc/cdn/hy/21059585.m3u8
+战争虎牙,http://cfss.cc/cdn/hy/21059592.m3u8
 [KEYWORDS]
 # 以下是关键字白名单，含有关键字的地址会被加入白名单，换行输入。
 # This is the keyword whitelist. Addresses containing keywords will be added to the whitelist, newline input.
