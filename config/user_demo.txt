@@ -180,8 +180,6 @@ TVB J5
 娛樂新聞台(HK)
 寰宇新聞台
 日本全天新聞
-TVBS
-TVBS-新聞台
 美亞電影台(HK)
 靖天電影台
 龍華日韓台
@@ -267,7 +265,8 @@ MOMOTV
 八大第一
 八大综合
 TVBS亚洲
-TVB
+TVBS
+TVBS新闻
 TVB1
 TVBe
 Viutv

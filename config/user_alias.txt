@@ -81,7 +81,7 @@ CETV1综合教育,CETV-1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育
 CETV2空中课堂,CETV-2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD,中国教育电视台2台
 CETV3教育服务,CETV-3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD,中国教育电视台3台
 CETV4职业教育,CETV-4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD,中国教育电视台4台
-CETV早期教育,CETV早教,早期教育,中国教育电视台早期教育频道,早期教育频道
+CETV早期教育,CETV早教,早期教育,中国教育电视台早期教育频道,早期教育频道,早教频道,CETV-CECE,CETV早期教育4K
 CCTV-4欧洲,re:CCTV[-\s]*0?4.*欧洲,CCTV4欧洲咪咕
 CCTV4美洲,CCTV-4美洲,re:CCTV[-\s]*0?4.*美洲,CCTV4美洲咪咕
 CCTV4K,CCTV-4K,re:CCTV[-\s]*0?4[Kk],CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
@@ -237,8 +237,6 @@ TVB J5,TVBJ5,J5,tvbj5
 娛樂新聞台(HK),re:.*(?:娛樂新聞|娱乐新闻).*(?:\(HK\)|HK|香港)?.*,娱乐新闻台,娱乐新闻台HK,Entertainment News HK,Entertainment News Hong Kong
 寰宇新聞台,re:.*寰宇[新新聞].*,寰宇新闻台,寰宇新闻,Global News,寰宇新聞,寰宇新聞頻道
 日本全天新聞,re:.*日本全天[新新聞].*,日本全天新闻,日本全天新闻台,Japan All Day News,Japan 24 Hour News
-TVBS,re:.*TVBS(?!-[新新聞]).*,TVBS频道,TVBS电视台,TVBS綜合,TVBS综合,TVBS Channel
-TVBS-新聞台,re:.*TVBS[-\s]*[新新聞].*,TVBS新闻台,TVBS新聞,TVBS News,TVBS-新闻,TVBS News Channel
 美亞電影台(HK),re:.*美亞電影.*(?:\(HK\)|HK|香港)?.*,美亚电影台HK,Meiya Movie Channel HK,美亞電影頻道HK,Meiya Film Channel Hong Kong
 靖天電影台,re:.*靖天電影.*,靖天电影台,靖天电影,靖天电影频道,GT Movie,GT Movie Channel,靖天映画
 龍華日韓台,re:.*龍華日韓.*,龙华日韩台,龍華日本韓國台,Longhua Japan-Korea Channel,Longhua日韓台,龍華日韓頻道
@@ -325,7 +323,8 @@ MOMOTV,re:.*MOMO[.\s]*TV.*,MOMO TV,MOMO电视台,MOMO频道,MOMO TV台,MOMO TV C
 八大第一,re:.*[八八][大大][第第][一一].* ,八大第一台,GTV First
 八大综合,re:.*[八八][大大][综綜][合合].* ,八大综合台,GTV Variety
 TVBS亚洲,re:.*TVBS[^a-zA-Z0-9]*[亚亞][洲洲].* ,TVBS Asia,TVBS Asia Channel
-TVB,re:.*TVB(?!\w).* ,TVB翡翠台,TVB Jade, Television Broadcasts Limited
+TVBS,re:.*TVBS(?!-[新新聞]).*,TVBS频道,TVBS电视台,TVBS綜合,TVBS综合,TVBS Channel
+TVBS新闻,TVBS新聞,TVBS 新聞,TVBS-新聞台,re:.*TVBS[-\s]*[新新聞].*,TVBS新闻台,TVBS新聞,TVBS News,TVBS-新闻,TVBS News Channel
 TVB1,re:.*TVB[^a-zA-Z0-9]*1.* ,TVB1台,TVB Channel 1
 TVBe,re:.*TVBe.* ,TVBe频道,TVBe Channel
 Viutv,re:.*Viutv.* ,ViuTV,ViuTV频道
