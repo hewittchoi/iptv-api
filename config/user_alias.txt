@@ -580,43 +580,43 @@ CCTV风云音乐,re:.*CCTV[^a-zA-Z0-9]*[风風][云雲][音音][乐乐樂].*,CCT
 看天下精选,re:.*[看看][天天][下下][精精][选選][频頻][道道]?.*,看天下精选频道,World Selection
 绚影超清,re:.*[绚絢][影影][超超][清清][频頻][道道]?.*,绚影超清频道,Gorgeous Ultra HD
 # 🥬🔢NewTV,#genre#
-超级电影,NewTV超级电影,re:.*[超超][级級][电電][影影][频頻][道道]?.*,超级电影频道,Super Movie
-黑莓电影,NewTV黑莓电影
-中国功夫,NewTV中国功夫,re:.*[中中][国國][功功][夫夫][频頻][道道]?.*,中国功夫频道,Chinese Kung Fu
-动作电影,NewTV动作电影,NewTV动作电影,NEWTV动作电影
-超级体育,NewTV超级体育
-精品体育,NewTV精品体育
-精彩足球,NewTV精彩足球
-武搏世界,NewTV武搏世界,NewTV武博世界,武搏世界,武博世界,NewTV搏击
-精品综合,NewTV精品综合,re:.*[精精][品品][综綜][合合][频頻][道道]?.*,精品综合频道,Boutique Variety
-哒啵赛事,NewTV哒啵赛事,re:.*[哒噠][啵啵][赛賽][事事][频頻][道道]?.*,哒啵赛事频道,Dabo Events,NEWTV哒啵赛事,哒啵赛事
-哒啵电竞,NewTV哒啵电竞,re:.*[哒噠][啵啵][电電][竞競][频頻][道道]?.*,哒啵电竞频道,Dabo eSports
-超级电视剧,NewTV超级电视剧,re:.*[超超][级級][电電][视視][剧劇][频頻][道道]?.*,超级电视剧频道,Super TV Drama
-东北热剧,NewTV东北热剧,re:.*[东東][北北][热熱][剧劇][频頻][道道]?.*,东北热剧频道,Northeast Hot Drama
-欢乐剧场,NewTV欢乐剧场,re:.*[欢歡][乐乐樂][剧劇][场場][频頻][道道]?.*,欢乐剧场频道,Joy Theater
-海外剧场,NewTV海外剧场,re:.*[海海][外外][剧劇][场場][频頻][道道]?.*,海外剧场频道,Overseas Theater
-家庭剧场,NewTV家庭剧场,re:.*[家家][庭庭][剧劇][场場][频頻][道道]?.*,家庭剧场频道,Family Theater
-古装剧场,NewTV古装剧场,re:.*[古古][装裝][剧劇][场場][频頻][道道]?.*,古装剧场频道,NEWTV古装剧场,古装剧场
-军旅剧场,NewTV军旅剧场,re:.*[军軍][旅旅][剧劇][场場][频頻][道道]?.*,军旅剧场频道,Military Drama Theater
-热播精选,NewTV热播精选,re:.*[热熱][播播][精精][选選][频頻][道道]?.*,热播精选频道,Hot Pick
-精品大剧,NewTV精品大剧,re:.*[精精][品品][大大][剧劇][频頻][道道]?.*,精品大剧频道,Boutique Blockbuster Drama
-爱情喜剧,NewTV爱情喜剧,re:.*[爱愛][情情][喜喜][剧劇][频頻][道道]?.*,爱情喜剧频道,Romantic Comedy,NEWTV爱情喜剧,爱情喜剧
-惊悚悬疑,NewTV惊悚悬疑,re:.*[惊驚][悚悚][悬懸][疑疑][频頻][道道]?.*,惊悚悬疑频道,Thriller Suspense
-明星大片,NewTV明星大片,re:.*[明星][星大][片大][片频][频道道]?.*,明星大片频道,Star Blockbusters
-明星剧场,NewTV明星剧场,re:.*[明星][星剧][剧场][场频][频道道]?.*,明星剧场频道,Star Theater
-精品纪录,NewTV精品纪录,re:.*[精精][品品][纪紀][录錄][频頻][道道]?.*,精品纪录频道,Boutique Documentary
-军事评论,NewTV军事评论,re:.*[军軍][事事][评評][论論][频頻][道道]?.*,军事评论频道,Military Review
-农业致富,NewTV农业致富,re:.*[农農][业業][致致][富富][频頻][道道]?.*,农业致富频道,Agriculture & Get Rich
-精品萌宠,NewTV精品萌宠,re:.*[精精][品品][萌萌][宠寵][频頻][道道]?.*,精品萌宠频道,Boutique Pets
-超级综艺,NewTV超级综艺,re:.*[超超][级級][综綜][艺藝][频頻][道道]?.*,超级综艺频道,Super Variety Show
-金牌综艺,NewTV金牌综艺,re:.*[金金][牌牌][综綜][艺藝][频頻][道道]?.*,金牌综艺频道,Gold Medal Variety Show
-潮妈辣婆,NewTV潮妈辣婆,re:.*[潮潮][妈妈媽][辣辣][婆婆][频頻][道道]?.*,潮妈辣婆频道,Trendy Mom Hot Grandma
-炫舞未来,NewTV炫舞未来,re:.*[炫炫][舞舞][未未][来来][频頻][道道]?.*,炫舞未来频道,Dazzle Dance Future
-全民热练,NewTV全民热练,re:.*[全全][民民][热熱][练練][频頻][道道]?.*,全民热练频道,National Hot Workout
-黑莓动画,NewTV黑莓动画
-怡伴健康,NewTV怡伴健康,re:.*[怡怡][伴伴][健健][康康][频頻][道道]?.*,怡伴健康频道,YiBan Health
-健康有约,NewTV健康有约,re:.*[健健][康康][有有][约約][频頻][道道]?.*,健康有约频道,Health Appointment
-魅力潇湘,NewTV魅力潇湘,re:.*[魅魅][力力][潇瀟][湘湘][频頻][道道]?.*,魅力潇湘频道,Charming Xiaoxiang
+超级电影,re:NewTV[\s-]超级电影,re:.*[超超][级級][电電][影影][频頻][道道]?.*,超级电影频道,Super Movie
+黑莓电影,re:NewTV[\s-]黑莓电影
+中国功夫,re:NewTV[\s-]中国功夫,re:.*[中中][国國][功功][夫夫][频頻][道道]?.*,中国功夫频道,Chinese Kung Fu
+动作电影,re:NewTV[\s-]动作电影,NewTV动作电影,NEWTV动作电影
+超级体育,re:NewTV[\s-]超级体育
+精品体育,re:NewTV[\s-]精品体育
+精彩足球,re:NewTV[\s-]精彩足球
+武搏世界,re:NewTV武搏世界,NewTV武博世界,武搏世界,武博世界,NewTV搏击
+精品综合,re:NewTV[\s-]精品综合,re:.*[精精][品品][综綜][合合][频頻][道道]?.*,精品综合频道,Boutique Variety
+哒啵赛事,re:NewTV[\s-]哒啵赛事,re:.*[哒噠][啵啵][赛賽][事事][频頻][道道]?.*,哒啵赛事频道,Dabo Events,NEWTV哒啵赛事,哒啵赛事
+哒啵电竞,re:NewTV[\s-]哒啵电竞,re:.*[哒噠][啵啵][电電][竞競][频頻][道道]?.*,哒啵电竞频道,Dabo eSports
+超级电视剧,re:NewTV[\s-]超级电视剧,re:.*[超超][级級][电電][视視][剧劇][频頻][道道]?.*,超级电视剧频道,Super TV Drama
+东北热剧,re:NewTV[\s-]东北热剧,re:.*[东東][北北][热熱][剧劇][频頻][道道]?.*,东北热剧频道,Northeast Hot Drama
+欢乐剧场,re:NewTV[\s-]欢乐剧场,re:.*[欢歡][乐乐樂][剧劇][场場][频頻][道道]?.*,欢乐剧场频道,Joy Theater
+海外剧场,re:NewTV[\s-]海外剧场,re:.*[海海][外外][剧劇][场場][频頻][道道]?.*,海外剧场频道,Overseas Theater
+家庭剧场,re:NewTV[\s-]家庭剧场,re:.*[家家][庭庭][剧劇][场場][频頻][道道]?.*,家庭剧场频道,Family Theater
+古装剧场,re:NewTV[\s-]古装剧场,re:.*[古古][装裝][剧劇][场場][频頻][道道]?.*,古装剧场频道,NEWTV古装剧场,古装剧场
+军旅剧场,re:NewTV[\s-]军旅剧场,re:.*[军軍][旅旅][剧劇][场場][频頻][道道]?.*,军旅剧场频道,Military Drama Theater
+热播精选,re:NewTV[\s-]热播精选,re:.*[热熱][播播][精精][选選][频頻][道道]?.*,热播精选频道,Hot Pick
+精品大剧,re:NewTV[\s-]精品大剧,re:.*[精精][品品][大大][剧劇][频頻][道道]?.*,精品大剧频道,Boutique Blockbuster Drama
+爱情喜剧,re:NewTV[\s-]爱情喜剧,re:.*[爱愛][情情][喜喜][剧劇][频頻][道道]?.*,爱情喜剧频道,Romantic Comedy,NEWTV爱情喜剧,爱情喜剧
+惊悚悬疑,re:NewTV[\s-]惊悚悬疑,re:.*[惊驚][悚悚][悬懸][疑疑][频頻][道道]?.*,惊悚悬疑频道,Thriller Suspense
+明星大片,re:NewTV[\s-]明星大片,re:.*[明星][星大][片大][片频][频道道]?.*,明星大片频道,Star Blockbusters
+明星剧场,re:NewTV[\s-]明星剧场,re:.*[明星][星剧][剧场][场频][频道道]?.*,明星剧场频道,Star Theater
+精品纪录,re:NewTV[\s-]精品纪录,re:.*[精精][品品][纪紀][录錄][频頻][道道]?.*,精品纪录频道,Boutique Documentary
+军事评论,re:NewTV[\s-]军事评论,re:.*[军軍][事事][评評][论論][频頻][道道]?.*,军事评论频道,Military Review
+农业致富,re:NewTV[\s-]农业致富,re:.*[农農][业業][致致][富富][频頻][道道]?.*,农业致富频道,Agriculture & Get Rich
+精品萌宠,re:NewTV[\s-]精品萌宠,re:.*[精精][品品][萌萌][宠寵][频頻][道道]?.*,精品萌宠频道,Boutique Pets
+超级综艺,re:NewTV[\s-]超级综艺,re:.*[超超][级級][综綜][艺藝][频頻][道道]?.*,超级综艺频道,Super Variety Show
+金牌综艺,re:NewTV[\s-]金牌综艺,re:.*[金金][牌牌][综綜][艺藝][频頻][道道]?.*,金牌综艺频道,Gold Medal Variety Show
+潮妈辣婆,re:NewTV[\s-]潮妈辣婆,re:.*[潮潮][妈妈媽][辣辣][婆婆][频頻][道道]?.*,潮妈辣婆频道,Trendy Mom Hot Grandma
+炫舞未来,re:NewTV[\s-]炫舞未来,re:.*[炫炫][舞舞][未未][来来][频頻][道道]?.*,炫舞未来频道,Dazzle Dance Future
+全民热练,re:NewTV[\s-]全民热练,re:.*[全全][民民][热熱][练練][频頻][道道]?.*,全民热练频道,National Hot Workout
+黑莓动画,re:NewTV[\s-]黑莓动画
+怡伴健康,re:NewTV[\s-]怡伴健康,re:.*[怡怡][伴伴][健健][康康][频頻][道道]?.*,怡伴健康频道,YiBan Health
+健康有约,re:NewTV健康有约,re:.*[健健][康康][有有][约約][频頻][道道]?.*,健康有约频道,Health Appointment
+魅力潇湘,re:NewTV魅力潇湘,re:.*[魅魅][力力][潇瀟][湘湘][频頻][道道]?.*,魅力潇湘频道,Charming Xiaoxiang
 睛彩篮球,re:.*[睛晴][彩彩][篮籃][球球].*,睛彩篮球频道,NewTV睛彩篮球,晴彩篮球
 睛彩羽毛球,re:.*[睛睛][彩彩][羽羽][毛毛][球球].*,睛彩羽毛球频道,NewTV睛彩羽毛球,晴彩羽毛球
 睛彩竞技,re:.*[睛晴][彩彩][竞競][技技].*,睛彩竞技频道,NewTV睛彩竞技,晴彩竞技
