@@ -142,7 +142,7 @@ HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 战争虎牙,http://cfss.cc/cdn/hy/21059592.m3u8
 
 港台电视31,http://43.251.226.89:8080/play/918.m3u8
-港台电视32http://43.251.226.89:8080/play/919.m3u8
+港台电视32,http://43.251.226.89:8080/play/919.m3u8
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
