@@ -13,7 +13,6 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # 我自己的源
 https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
-https://gitlab.com/hewittchoi/tvlist/-/raw/main/小菜手动.txt
 # https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/tv/refs/heads/main/itvlist.txt
 
 # hsh58，2025年2月16日测试结果非常好，比较短，自己添加
