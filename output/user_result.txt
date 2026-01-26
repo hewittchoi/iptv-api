@@ -34,14 +34,9 @@ CCTV3综艺,http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive
 CCTV3综艺,http://hczn.x3322.net:9902/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4中文国际,http://119.91.7.169:2026/ysws.php?id=CCTV4
 CCTV4中文国际,http://go.bkpcp.top/mg/cctv4
-<<<<<<< Updated upstream
-CCTV4中文国际,http://go.bkpcp.top/mg/cctv4o
-CCTV4中文国际,http://go.bkpcp.top/mg/cctv4m
 CCTV4中文国际,https://iptv.catvod.com/live.php?id=CCTV4
 CCTV4中文国际,https://iptv.catvod.com/live.php?id=CCTV4K
-=======
 CCTV4中文国际,http://go.bkpcp.top/mg/cgtnf
->>>>>>> Stashed changes
 CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4中文国际,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
@@ -181,11 +176,7 @@ CCTV17农业农村,http://drive.mxmy.net:8888/udp/239.3.1.151:8144
 
 🥬💰央视付费,#genre#
 CETV1综合教育,http://112.254.55.106:22222/rtp/239.253.254.110:8000
-CCTV4欧洲,http://go.bkpcp.top/mg/cctv4o
-CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
 CETV4职业教育,http://112.254.55.106:22222/rtp/239.253.254.116:8000
-<<<<<<< Updated upstream
-=======
 CETV4职业教育,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 CETV4职业教育,https://migu.188766.xyz/?migutoken=37d2643839c6dab69155c1b2d8194f3c&id=CETV4&type=yy
 CETV4职业教育,https://migu.188766.xyz/?migutoken=8d4526a960b7bdd7a85faa29d1cc9e03&id=CETV4&type=yy
@@ -200,7 +191,6 @@ CCTV4美洲,http://go.bkpcp.top/mg/cctv4m
 CCTV4K,https://iptv.catvod.com/live.php?id=CCTV4K
 CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
 CCTV4K,http://kictoc.top:7000/rtp/239.253.93.134:6631
->>>>>>> Stashed changes
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV风云足球,http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
@@ -1056,7 +1046,6 @@ CN卡通,http://pullpackage.alivecdn.com/live/S31m2rw7UUNxgJaq9YeLysJgqOz7htk7A1
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 
 🥬🔢数字频道,#genre#
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
 重温经典,http://69.30.246.194/live/cwjd.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
