@@ -15,6 +15,10 @@ https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
 # https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/tv/refs/heads/main/itvlist.txt
 
+# alenin-zhang，2026年1月27日新找的源
+https://ghproxy.cc/https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/CNTV.txt
+
+
 # hsh58，2025年2月16日测试结果非常好，比较短，自己添加
 https://ghproxy.cc/https://raw.githubusercontent.com/hsh58/ds/refs/heads/master/ds.txt
 
@@ -23,6 +27,9 @@ https://ghproxy.cc/https://raw.githubusercontent.com/lalifeier/IPTV/cfe22eb9ffe4
 
 # wwb521，酒店源好像不卡
 https://ghproxy.cc/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
+
+# develop202
+https://ghproxy.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
 # Guovin每日更新工具
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
