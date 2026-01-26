@@ -759,6 +759,7 @@ Channel 5# 🥬📺国际频道,#genre#
 新传媒5频道【新】,CH5,M5,Channel5,,新传媒电视5频道,新传媒5频道,新传媒5台,M5,MediaCorp Channel 5,Channel 5 HD,re:.*Channel[.\s]*5.*,第五频道,Channel 5,Channel 5高清,新加坡第五频道,Singapore Channel 5
 新传媒8频道【新】,CH8,M8,Channel8,Channel 8,新传媒电视8频道,新传媒8频道,新传媒8台,第八波道,M8,MediaCorp Channel 8,Channel 8 HD,re:.*Channel[.\s]*8.*,第八频道,Channel 8,Channel 8高清,新加坡第八频道,Singapore Channel 8
 新加坡U频道【新】,CHU,MU,ChannelU,Channel U,新传媒电视U频道,Channel U HD,re:.*Channel[.\s]*U.*,U频道,Channel U,Channel U高清,新加坡U频道,Singapore Channel U,MediaCorp Channel U
+八度空间【马来】, re:.*[八][度][空][间間].*,八度空间,八度空間,8TV,TV8,EightTV,8度空间,8TV八度空间
 日本全天新闻,日本全天新聞,NHK World-Japan,NHK World Japan,re:.*NHK[.\s]*World[.\s]*-?[.\s]*Japan.*,NHK国际日本,NHK World,NHKワールド,NHK世界台
 BBC News,re:.*BBC[^a-zA-Z0-9]*News.*,BBC新闻,BBC World News
 CNA,re:.*CNA.*,CNA新闻,Channel NewsAsia
