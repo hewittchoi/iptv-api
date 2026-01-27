@@ -3,6 +3,12 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+
+汕头综合,http://183.10.180.90:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
+汕头经济,http://183.10.180.90:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳综合,http://183.10.180.90:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
+揭阳公共,http://183.10.180.90:202/tsfile/live/1141_1.m3u8?key=txiptv&playlive=1&down=1
+CCTV-1综合,http://183.10.180.90:202/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&down=1
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
