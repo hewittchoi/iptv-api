@@ -9,6 +9,8 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
+# 潇雨萌萌
+http://43.251.226.89:8080/live.txt
 
 # 我自己的源
 https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
