@@ -3,6 +3,15 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
+睛彩竞技,http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
+睛彩青少,http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 北京卫视4K,https://tv1288.xyz/公众号潇雨萌萌.php?ch=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K%E8%B6%85%E9%AB%98%E6%B8%85
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 湖南卫视4K,http://j.s.bkpcp.top/jj/hunws
