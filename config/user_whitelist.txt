@@ -3,7 +3,10 @@
 # This is the whitelist for the interface. Interfaces in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-
+翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 汕头综合,http://183.10.180.90:202/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&down=1
 汕头经济,http://183.10.180.90:202/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&down=1
 揭阳综合,http://183.10.180.90:202/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&down=1
@@ -378,4 +381,5 @@ CCTV17农业农村,http://119.91.7.169:2026/ysws.php?id=CCTV17
 # 以下是关键字白名单，含有关键字的地址会被加入白名单，换行输入。
 # This is the keyword whitelist. Addresses containing keywords will be added to the whitelist, newline input.
 go.bkpcp.top/mg
+
 cdn6.163189.xyz
