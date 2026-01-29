@@ -751,7 +751,10 @@ Astro QJ,http://pullpackage.alivecdn.com/live/FdxVjlPRQ9qiI1Y0CsJgqOwFmKaI4zzwvk
 港台电视33,https://vip.lz-cdn3.com/20230317/18157_ab6a01e6/index.m3u8
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-
+翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+翡翠台,https://o11.163189.xyz/stream/tvb/fct/
+TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台,https://o11.163189.xyz/stream/tvb/mzt/
 🥬🇲🇴澳门,#genre#
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 澳视澳门,http://rihou.cc:555/tv/[PL]澳视澳门
