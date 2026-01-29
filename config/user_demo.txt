@@ -207,7 +207,6 @@ Astro iQIYI
 Astro QJ
 Astro Xing He
 NHK東京総合
-纬来体育台
 HOY77
 H0Y78
 中国香港环球
@@ -292,6 +291,7 @@ Channel[V]
 CHC动作电影
 CHC影迷电影
 CHC家庭影院
+凤凰电影
 古装妖魔
 海看大片
 淘剧场
@@ -321,7 +321,6 @@ IPTV经典电影
 东森超视
 4K超高清电影
 4K电影
-凤凰电影
 亚洲武侠
 八大戏剧
 三立戏剧
