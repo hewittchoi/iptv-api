@@ -48,7 +48,7 @@ https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-txt/re
 # https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 # https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://live.zbds.top/tv/iptv6.txt
-# https://live.zbds.top/tv/iptv4.txt
+https://live.zbds.top/tv/iptv4.txt
 
 
 # 接口中自带直播源
