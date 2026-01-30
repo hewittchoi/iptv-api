@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.zbds.top/tv/iptv4.txt
 
 # 我自己的源
+https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/white_result.txt
 https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
 # https://raw.githubusercontent.com/hewittchoi/tv/refs/heads/main/itvlist.txt
@@ -130,4 +131,4 @@ http://ztha.top/TVBox/tv/thtv.txt
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 
 # 添加个人已测试过的直播源为白名单
-https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
+https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/white_result.txt
