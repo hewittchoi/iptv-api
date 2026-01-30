@@ -40,6 +40,7 @@ https://raw.githubusercontent.com/hsh58/ds/refs/heads/master/ds.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/cfe22eb9ffe49d50370a686ca8ed95031a5ee8b5/txt/IPTV.txt
 
 # wwb521，酒店源好像不卡
+https://raw.githubusercontent.com/wwb521/live/8714f92a940dad6d2537129b39d29c5209ee4cce/tv.txt
 https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
 
 # develop202
