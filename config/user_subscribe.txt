@@ -2,15 +2,26 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://gitee.com/gly358617629/iptv/raw/master/IPTV.txt
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 # 潇雨萌萌
 http://43.251.226.89:8080/live.txt
+
+# Guovin每日更新工具
+https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+
+https://ghproxy.cc/https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/user_result.txt
+
+# 直播电视vbskycn
+# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
+https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+# https://live.zbds.top/tv/iptv6.txt
+https://live.zbds.top/tv/iptv4.txt
 
 # 我自己的源
 https://ghproxy.cc/https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
@@ -33,10 +44,6 @@ https://ghproxy.cc/https://raw.githubusercontent.com/wwb521/live/refs/heads/main
 # develop202
 https://ghproxy.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 
-# Guovin每日更新工具
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
-https://ghproxy.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 
 # kimwang1978每日更新#https://github.com/kimwang1978/collect-tv-txt #短链kimwang1978：https://tinyurl.com/tv-live-txt
 https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.txt
@@ -44,11 +51,6 @@ https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-txt/re
 # https://ghproxy.cc/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
 # https://live.iptv365.org/live.txt
 
-# 直播电视
-# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
-# https://ghproxy.cc/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-# https://live.zbds.top/tv/iptv6.txt
-https://live.zbds.top/tv/iptv4.txt
 
 
 # 接口中自带直播源
