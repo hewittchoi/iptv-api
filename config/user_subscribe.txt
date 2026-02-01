@@ -29,6 +29,9 @@ https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
 # https://raw.githubusercontent.com/hewittchoi/tv/refs/heads/main/itvlist.txt
 
+# https://freetv.fun/zh-hans/playlist
+https://t.freetv.fun/m3u/playlist.txt
+
 # alenin-zhang，2026年1月27日新找的源
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/CNTV.txt
 
