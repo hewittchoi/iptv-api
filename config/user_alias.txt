@@ -106,13 +106,13 @@ CCTV发现之旅,re:.*(?:(?:CCTV|中央新影)[\s-]*)?发现之旅.*,发现之�
 CCTV移动传媒
 中国天气
 CGTN
-CGTN新闻
-CGTN英语
-CGTN纪录,CGTN记录,CGTNDocumentary
-CGTN俄语,CGTN Pусский
-CGTN法语,CGTN Français
-CGTN西语,CGTN Español
-CGTN阿语,CGTN العربية
+CGTN新闻,CGTN 新闻
+CGTN英语,CGTN 英语
+CGTN纪录,CGTN 纪录,CGTN记录,CGTNDocumentary,CGTN外语纪录
+CGTN俄语,CGTN 俄语,CGTN Pусский
+CGTN法语,CGTN 法语,CGTN Français
+CGTN西语,CGTN 西语,CGTN Español,CGTN西班牙语,CGTN 西班牙语
+CGTN阿语,CGTN 阿语,CGTN العربية,CGTN阿拉伯语,CGTN 阿拉伯语
 # 🥬📡卫视频道,#genre#
 香港卫视,re:.*(?:香港|香江)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,香港台,香港电视台,香港衛視,香港電視台,香江衛視
 广东卫视,re:.*(?:广东|廣東)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,广东台,广东电视台,廣東衛視,廣東電視台
@@ -124,6 +124,7 @@ CGTN阿语,CGTN العربية
 广西卫视,re:.*(?:广西|廣西|桂)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,广西台,广西电视台,廣西衛視,廣西電視台,桂台,桂衛視
 东南卫视,re:.*(?:东南|東南)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,东南台,东南电视台,東南衛視,東南電視台
 厦门卫视,re:.*(?:厦门|廈門|厦|廈)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,厦门台,厦门电视台,廈門衛視,廈門電視台,厦视,廈視
+海峡卫视,re:.*(?:海峡|海峽)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,海峡台,海峡电视台,海峽衛視,海峽電視台,海峡两岸,re:.*[海海][峡峽][两兩][岸岸].*,海峡卫视,Strait TV,福建海峡卫视
 北京卫视,re:.*(?:北京|京)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,北京卫视4K,北京台,北京电视台,北京衛視,北京電視台,BTV,京台,京衛視
 天津卫视,re:.*(?:天津|津)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,天津台,天津电视台,天津衛視,天津電視台,津台,津衛視
 东方卫视,re:.*(?:东方|東方)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,东方台,东方电视台,東方衛視,東方電視台,DragonTV,上海东方卫视
@@ -148,12 +149,11 @@ CGTN阿语,CGTN العربية
 甘肃卫视,re:.*(?:甘肃|甘肅|陇|隴)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,甘肃台,甘肃电视台,甘肅衛視,甘肅電視台,陇台,隴衛視
 陕西卫视,re:.*(?:陕西|陝西|秦)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,陕西台,陕西电视台,陝西衛視,陝西電視台,秦台,秦衛視
 山西卫视,re:.*(?:山西|晋|晉)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,山西台,山西电视台,山西衛視,山西電視台,晋台,晉衛視
-农林卫视,re:.*(?:农林|農林|农业|農業)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,农林台,农林电视台,農林衛視,農林電視台,农业卫视,農業衛視
+农林卫视,re:.*(?:农林|農林|农业|農業)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,农林台,农林电视台,農林衛視,農林電視台,农业卫视,農業衛視,陕西农林卫视,陕西农林,中国农林卫视
 兵团卫视,re:.*(?:兵团|兵團)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,兵团台,兵团电视台,兵團衛視,兵團電視台,新疆兵团卫视
 西藏卫视,re:.*(?:西藏|藏)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,西藏台,西藏电视台,西藏衛視,西藏電視台,藏台,藏衛視
 海南卫视,re:.*(?:海南|琼|瓊)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,海南台,海南电视台,海南衛視,海南電視台,琼台,瓊衛視
 三沙卫视,re:.*三沙[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,三沙台,三沙电视台,三沙衛視,三沙電視台
-海峡卫视,re:.*(?:海峡|海峽)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,海峡台,海峡电视台,海峽衛視,海峽電視台
 康巴卫视,re:.*康巴[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,康巴台,康巴电视台,康巴衛視,康巴電視台
 安多卫视,re:.*安多[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,安多台,安多电视台,安多衛視,安多電視台
 龙江卫视,re:.*(?:龙江|龍江)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,龙江台,龙江电视台,龍江衛視,龍江電視台,黑龙江都市频道
@@ -310,7 +310,6 @@ MOMOTV,re:.*MOMO[.\s]*TV.*,MOMO TV,MOMO电视台,MOMO频道,MOMO TV台,MOMO TV C
 纬来篮球,re:.*[纬緯][来来][篮籃][球球].*,纬来篮球台,VL Basketball,NBATV Taiwan
 纬来日本,re:.*[纬緯][来来][日日][本本].*,纬来日本台,VL Japan
 纬来精彩,re:.*[纬緯][来来][精精][彩彩].*,纬来精彩台,VL Wonderful
-海峡两岸,re:.*[海海][峡峽][两兩][岸岸].*,海峡卫视,Strait TV
 八大第一,re:.*[八八][大大][第第][一一].*,八大第一台,GTV First
 八大综合,re:.*[八八][大大][综綜][合合].*,八大综合台,GTV Variety
 TVBS亚洲,re:.*TVBS[^a-zA-Z0-9]*[亚亞][洲洲].*,TVBS Asia,TVBS Asia Channel
@@ -625,35 +624,35 @@ CCTV风云音乐,re:.*CCTV[^a-zA-Z0-9]*[风風][云雲][音音][乐乐樂].*,CCT
 睛彩广场舞,re:.*[睛晴][彩彩][广廣][场場][舞舞].*,睛彩广场舞频道,NewTV睛彩广场舞,晴彩广场舞蹈
 
 # 🥬🔢IHOT,#genre#
-爱喜剧,IHOT爱喜剧,re:.*IHOT[^a-zA-Z0-9]*[爱愛][喜喜][剧劇].*,IHOT爱喜剧频道,IHOT Love Comedy
-爱科幻,IHOT爱科幻,re:.*IHOT[^a-zA-Z0-9]*[爱愛][科科][幻幻].*,IHOT爱科幻频道,IHOT Love Sci-Fi
-爱院线,IHOT爱院线,re:.*IHOT[^a-zA-Z0-9]*[爱愛][院院][线線].*,IHOT爱院线频道,IHOT Love Theatrical
-爱浪漫,IHOT爱浪漫,re:.*IHOT[^a-zA-Z0-9]*[爱愛][浪浪][漫漫].*,IHOT爱浪漫频道,IHOT Love Romance
-爱悬疑,IHOT爱悬疑,re:.*IHOT[^a-zA-Z0-9]*[爱愛][悬懸][疑疑].*,IHOT爱悬疑频道,IHOT Love Suspense
-爱谍战,rIHOT爱谍战,re:.*IHOT[^a-zA-Z0-9]*[爱愛][谍諜][战戰].*,IHOT爱谍战频道,IHOT Love Spy War,爱谍战
-爱历史,IHOT爱历史,re:.*IHOT[^a-zA-Z0-9]*[爱愛][历歷][史史].*,IHOT爱历史频道,IHOT Love History,爱历史
-爱科学,IHOT爱科学,re:.*IHOT[^a-zA-Z0-9]*[爱愛][科科][学學].*,IHOT爱科学频道,IHOT Love Science,爱科学
-爱赛车,IHOT爱赛车,ihot爱赛车
-爱旅行,IHOT爱旅行,re:.*IHOT[^a-zA-Z0-9]*[爱愛][旅旅][行行].*,IHOT爱旅行频道,IHOT Love Travel,爱旅行
-爱奇谈,IHOT爱奇谈,re:.*IHOT[^a-zA-Z0-9]*[爱愛][奇奇][谈谈].*,IHOT爱奇谈频道,IHOT Love Odd Talk,爱奇谈
-爱动漫,IHOT爱动漫,爱动漫
-爱体育,IHOT爱体育,爱体育
-爱玩具,IHOT爱玩具,re:.*IHOT[^a-zA-Z0-9]*[爱愛][玩玩][具具].*,IHOT爱玩具频道,IHOT Love Toys,爱玩具
-爱都市,IHOT爱都市,re:.*IHOT[^a-zA-Z0-9]*[爱愛][都都][市市].*,IHOT爱都市频道,IHOT Love Urban,爱都市
-爱家庭,IHOT爱家庭,re:.*IHOT[^a-zA-Z0-9]*[爱愛][家家][庭庭].*,IHOT爱家庭频道,IHOT Love Family,爱家庭
-爱青春,IHOT爱青春,re:.*IHOT[^a-zA-Z0-9]*[爱愛][青青][春春].*,IHOT爱青春频道,IHOT Love Youth,爱青春
-爱江湖,rIHOT爱江湖,re:.*IHOT[^a-zA-Z0-9]*[爱愛][江江][湖湖].*,IHOT爱江湖频道,IHOT Love Jianghu,爱江湖
-爱电竞,IHOT爱电竞,爱电竞
-爱怀旧,IHOT爱怀旧,re:.*IHOT[^a-zA-Z0-9]*[爱愛][怀懷][旧舊].*,IHOT爱怀旧频道,IHOT Love Nostalgia,爱怀旧
-爱探索,IHOT爱探索,re:.*IHOT[^a-zA-Z0-9]*[爱愛][探探][索索].*,IHOT爱探索频道,IHOT Love Exploration,爱探索
-爱经典,IHOT爱经典,re:.*IHOT[^a-zA-Z0-9]*[爱愛][经經][典典].*,IHOT爱经典频道,IHOT Love Classics,爱经典
-爱美食,IHOT爱美食,re:.*IHOT[^a-zA-Z0-9]*[爱愛][美美][食食].*,IHOT爱美食频道,IHOT Love Food,爱美食
-爱娱乐,IHOT爱娱乐,re:.*IHOT[^a-zA-Z0-9]*[爱愛][娱娛][乐乐樂].*,IHOT爱娱乐频道,IHOT Love Entertainment,爱娱乐
-爱时尚,rIHOT爱时尚,re:.*IHOT[^a-zA-Z0-9]*[爱愛][时时][尚尚].*,IHOT爱时尚频道,IHOT Love Fashion,爱时尚
-爱军武,IHOT爱军武,re:.*IHOT[^a-zA-Z0-9]*[爱愛][军軍][武武].*,IHOT爱军武频道,IHOT Love Military,爱军武
-爱猎奇,IHOT爱猎奇,re:.*IHOT[^a-zA-Z0-9]*[爱愛][猎獵][奇奇].*,IHOT爱猎奇频道,IHOT Love Curiosity,爱猎奇
-爱解密,IHOT爱解密,re:.*IHOT[^a-zA-Z0-9]*[爱愛][解解][密密].*,IHOT爱解密频道,IHOT Love Decryption,爱解密
-爱世界,IHOT爱世界,re:.*IHOT[^a-zA-Z0-9]*[爱愛][世世][界界].*,IHOT爱世界频道,IHOT Love World,爱世界
+爱喜剧,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][喜喜][剧劇].*,IHOT爱喜剧,IHOT爱喜剧频道,IHOT Love Comedy
+爱科幻,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][科科][幻幻].*,IHOT爱科幻,IHOT爱科幻频道,IHOT Love Sci-Fi
+爱院线,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][院院][线線].*,IHOT爱院线,IHOT爱院线频道,IHOT Love Theatrical
+爱浪漫,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][浪浪][漫漫].*,IHOT爱浪漫,IHOT爱浪漫频道,IHOT Love Romance
+爱悬疑,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][悬懸][疑疑].*,IHOT爱悬疑,IHOT爱悬疑频道,IHOT Love Suspense
+爱谍战,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][谍諜][战戰].*,IHOT爱谍战,IHOT爱谍战频道,IHOT Love Spy War
+爱历史,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][历歷][史史].*,IHOT爱历史,IHOT爱历史频道,IHOT Love History
+爱科学,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][科科][学學].*,IHOT爱科学,IHOT爱科学频道,IHOT Love Science
+爱赛车,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][赛賽][车車].*,IHOT爱赛车,ihot爱赛车,IHOT爱赛车频道,IHOT Love Racing
+爱旅行,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][旅旅][行行].*,IHOT爱旅行,IHOT爱旅行频道,IHOT Love Travel
+爱奇谈,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][奇奇][谈谈].*,IHOT爱奇谈,IHOT爱奇谈频道,IHOT Love Odd Talk
+爱动漫,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][动動][漫漫].*,IHOT爱动漫,IHOT爱动漫频道,IHOT Love Anime
+爱体育,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][体體][育育].*,IHOT爱体育,IHOT爱体育频道,IHOT Love Sports
+爱玩具,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][玩玩][具具].*,IHOT爱玩具,IHOT爱玩具频道,IHOT Love Toys
+爱都市,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][都都][市市].*,IHOT爱都市,IHOT爱都市频道,IHOT Love Urban
+爱家庭,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][家家][庭庭].*,IHOT爱家庭,IHOT爱家庭频道,IHOT Love Family
+爱青春,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][青青][春春].*,IHOT爱青春,IHOT爱青春频道,IHOT Love Youth
+爱江湖,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][江江][湖湖].*,IHOT爱江湖,IHOT爱江湖频道,IHOT Love Jianghu
+爱电竞,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][电電][竞競].*,IHOT爱电竞,IHOT爱电竞频道,IHOT Love eSports
+爱怀旧,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][怀懷][旧舊].*,IHOT爱怀旧,IHOT爱怀旧频道,IHOT Love Nostalgia
+爱探索,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][探探][索索].*,IHOT爱探索,IHOT爱探索频道,IHOT Love Exploration
+爱经典,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][经經][典典].*,IHOT爱经典,IHOT爱经典频道,IHOT Love Classics
+爱美食,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][美美][食食].*,IHOT爱美食,IHOT爱美食频道,IHOT Love Food
+爱娱乐,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][娱娛][乐乐樂].*,IHOT爱娱乐,IHOT爱娱乐频道,IHOT Love Entertainment
+爱时尚,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][时时][尚尚].*,IHOT爱时尚,IHOT爱时尚频道,IHOT Love Fashion
+爱军武,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][军軍][武武].*,IHOT爱军武,IHOT爱军武频道,IHOT Love Military
+爱猎奇,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][猎獵][奇奇].*,IHOT爱猎奇,IHOT爱猎奇频道,IHOT Love Curiosity
+爱解密,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][解解][密密].*,IHOT爱解密,IHOT爱解密频道,IHOT Love Decryption
+爱世界,re:.*(?:IHOT[^a-zA-Z0-9]*)?[爱愛][世世][界界].*,IHOT爱世界,IHOT爱世界频道,IHOT Love World
 风尚音乐,re:.*[风風][尚尚][音音][乐乐樂][频頻][道道]?.*,风尚音乐频道,Vogue Music
 精彩影视,re:.*[精精][彩彩][影影][视視][频頻][道道]?.*,精彩影视频道,Exciting Film & TV
 求索纪录,re:.*[求求][索索][纪紀][录錄][频頻][道道]?.*,求索纪录频道,Qiusuo Documentary
@@ -1482,10 +1481,8 @@ NBTV-4
 陕西三套生活
 陕西五套公共
 陕西七套体育休闲
-陕西农林卫视
 延安一套新闻综合
 延安二套公共
-陕西农林
 陕西新闻资讯
 陕西都市青春
 陕西生活
@@ -1530,7 +1527,6 @@ NBTV-4
 福建经视
 福建体育
 福建少儿
-福建海峡卫视
 漳州新闻
 龙岩综合
 
