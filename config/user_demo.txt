@@ -175,12 +175,13 @@ TVB J5
 亚洲新闻
 有线新闻
 美亚C+
-东方卫视国际
+Now直播台
+Now星影台
+Now爆谷台
 娛樂新聞台(HK)
 美亞電影台(HK)
 龍華日韓台
 龍華經典台
-Now星影台
 千禧經典台(HK)
 28 AI 智慧賽馬
 myTV SUPER 18台
@@ -188,7 +189,6 @@ PopC
 tvN
 viutv 99
 viutv6 96
-Now爆谷台
 Animax(HK)
 DW
 France 24
@@ -804,6 +804,7 @@ BTV纪实
 
 🇨🇳上海频道,#genre#
 东方卫视
+东方卫视国际
 上海新闻综合
 东方影视
 上海教育
