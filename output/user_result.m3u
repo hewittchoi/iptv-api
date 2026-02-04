@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="🕘️更新时间",2026-02-04 22:49:20
+#EXTINF:-1 tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="🕘️更新时间",2026-02-04 22:49:20
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="📺央视频道",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
