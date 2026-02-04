@@ -517,7 +517,7 @@ http://39.152.103.17:8089/tsfile/live/1068_1.m3u8?key=txiptv&playlive=1&down=1
 http://111.61.236.247:9081/hls/59/index.m3u8
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/中国天气.png" group-title="💰央视付费",中国天气
 https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94
-#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/爱喜剧.png" group-title="💰央视付费",中国交通
+#EXTINF:-1 tvg-name="中国交通" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/爱喜剧.png" group-title="💰央视付费",中国交通
 http://112.19.88.97:8899/rtp/239.10.0.143:5140
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CGTN.png" group-title="💰央视付费",CGTN
 https://iptv.catvod.com/live.php?id=CGTN
