@@ -220,19 +220,19 @@ CGTN阿语,CGTN 阿语,CGTN العربية,CGTN阿拉伯语,CGTN 阿拉伯语
 凤凰资讯,re:.*(?:凤凰|鳳凰).*(?:资讯|資訊).*,凤凰资讯台,凤凰卫视资讯台,鳳凰資訊台,鳳凰衛視資訊台
 凤凰香港,re:.*(?:凤凰|鳳凰).*香港.*,凤凰卫视香港台,凤凰香港台,鳳凰香港台,鳳凰衛視香港台
 香港卫视,re:.*(?<!凤凰|鳳凰).*(?:香港卫视|香港衛視).*,香港台,香港电视台,香港衛視,香港電視台
-翡翠台,re:^(?i:TVB[\s-]*)?翡翠台(?:[\s-]*4[Kk])?$,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台4K,TVB翡翠台 4K,翡翠台 4K,TVB翡翠台 4K,TVb翡翠台,tvb翡翠台,TVB翡翠台,TVB Jade,无线翡翠台,Jade
-明珠台,re:.*(?:[Tt][Vv][Bb][\s-]*)?(?:明珠台|Pearl).*,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
-黃金翡翠台,黃金翡翠
-翡翠剧集台(北美),TVB Drama
-明珠剧集台(北美)
-无线新闻,无线新闻台,無綫新聞台,無線新聞台,TVB无线新闻,TVB无线新闻台
-无线卫星新闻
-无线新闻台(北美)
-无线星河,TVB 星河台
-无线娱乐
-无线财经
-无线功夫
-无线华丽
+TVB翡翠台,re:^(?i:TVB[\s-]*)?翡翠台(?:[\s-]*4[Kk])?$,翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台,翡翠台4K,TVB翡翠台 4K,翡翠台 4K,TVB翡翠台 4K,TVb翡翠台,tvb翡翠台,TVB翡翠台,TVB Jade,无线翡翠台,Jade
+TVB明珠台,re:.*(?:[Tt][Vv][Bb][\s-]*)?(?:明珠台|Pearl).*,明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+TVB黃金翡翠台,黃金翡翠,黃金翡翠台
+TVB翡翠剧集台(北美),TVB Drama,翡翠剧集台(北美)
+TVB明珠剧集台(北美),明珠剧集台(北美)
+TVB无线新闻,无线新闻,无线新闻台,無綫新聞台,無線新聞台,TVB无线新闻,TVB无线新闻台
+TVB无线卫星新闻,无线卫星新闻
+TVB无线新闻台(北美),无线新闻台(北美)
+TVB无线星河,TVB 星河台,无线星河
+TVB无线娱乐,无线娱乐
+TVB无线财经,无线财经
+TVB无线功夫,无线功夫
+TVB无线华丽,无线华丽
 TVB Plus,TVBPlus,TVB+
 TVB J1,TVBJ1,J1,tvbj1,翡翠综合台(北美),翡翠台北美版,TVBJ1翡翠台,翡翠台(北美),翡翠台北美版(TVB J1),TVBJ1(NY),翡翠綜合台（紐約TVBJ1）,紐約TVBJ1
 TVB J2,TVBJ2,J2,tvbj2,翡翠綜合台（洛杉機TVBJ2）
@@ -245,11 +245,37 @@ TVB J5,TVBJ5,J5,tvbj5
 Now直播台,re:.*Now[.\s]*直播.*,Now直播
 Now星影台,re:.*Now[.\s]*星影.*,Now Star Movie,Now星影,Now Star Cinema,Now Star Movie Channel
 Now爆谷台,re:.*Now[.\s]*爆谷.*,Now爆谷,Now Popcorn,Now爆谷電影台,Now Popcorn Cinema,Now爆谷频道
+Now剧集台,Now剧集,re:.*Now[^a-zA-Z0-9]*[剧劇][集集].*,Now Drama
+Now华剧台,Now华剧,re:.*Now[^a-zA-Z0-9]*[华華][剧劇].*,Now Chinese Drama
+Now紫金国际
+Now报价台
+Now爆谷星影台
+Now财经台
+Now跑马668
+Now新闻台
+Now Golf 2
+Now Golf 3
+Now Sports 1
+Now Sports 2
+Now Sports 3
+Now Sports 4
+Now Sports 5
+Now Sports 6
+Now Sports 7
+Now Sports 641
+Now Sports 647
+Now Sports Plus
+Now Sports Premier 1
+Now Sports Premier 2
+Now Sports Premier 3
+Now Sports Premier 4
+Now Sports Premier 5
+Now Sports Premier 6
+Now Sports Premier 7
+Now Sports Prime
 娛樂新聞台(HK),re:.*(?:娛樂新聞|娱乐新闻).*(?:\(HK\)|HK|香港)?.*,娱乐新闻台,娱乐新闻台HK,Entertainment News HK,Entertainment News Hong Kong
 日本全天新聞,re:.*日本全天[新新聞].*,日本全天新闻,日本全天新闻台,Japan All Day News,Japan 24 Hour News
 美亞電影台(HK),re:.*美亞電影.*(?:\(HK\)|HK|香港)?.*,美亚电影台HK,Meiya Movie Channel HK,美亞電影頻道HK,Meiya Film Channel Hong Kong
-龍華日韓台,re:.*龍華日韓.*,龙华日韩台,龍華日本韓國台,Longhua Japan-Korea Channel,Longhua日韓台,龍華日韓頻道
-龍華經典台,re:.*龍華經典.*,龙华经典台,龍華經典電影台,Longhua Classic Channel,Longhua Classics,龍華經典頻道
 千禧經典台(HK),re:.*千禧經典.*(?:\(HK\)|HK|香港)?.*,千禧经典台HK,Millennium Classic HK,千禧經典電影台HK,Millennium Classic Movie Channel Hong Kong
 28 AI 智慧賽馬,re:.*28[.\s]*AI[.\s]*智慧[賽赛]馬.*,28 AI智慧赛马,28 AI賽馬,28 AI Smart Racing,28 AI Horse Racing,28 AI賽馬頻道
 myTV SUPER 18台,re:.*myTV[.\s]*SUPER[.\s]*18.*,myTV SUPER 18,myTV SUPER 18频道,myTV SUPER 18 Channel,myTV SUPER十八台
@@ -319,6 +345,15 @@ MOMOTV,re:.*MOMO[.\s]*TV.*,MOMO TV,MOMO电视台,MOMO频道,MOMO TV台,MOMO TV C
 纬来精彩,re:.*[纬緯][来来][精精][彩彩].*,纬来精彩台,VL Wonderful
 八大第一,re:.*[八八][大大][第第][一一].*,八大第一台,GTV First
 八大综合,re:.*[八八][大大][综綜][合合].*,八大综合台,GTV Variety
+龙华日韩,龍華日韓台,re:.*龍華日韓.*,龙华日韩台,龍華日本韓國台,Longhua Japan-Korea Channel,Longhua日韓台,龍華日韓頻道
+龙华经典,龍華經典台,re:.*龍華經典.*,龙华经典台,龍華經典電影台,Longhua Classic Channel,Longhua Classics,龍華經典頻道
+龙华电影
+龙华卡通
+龙华偶像
+龙华戏剧
+龙华洋片
+龙华影剧
+龙祥电影
 TVBS亚洲,re:.*TVBS[^a-zA-Z0-9]*[亚亞][洲洲].*,TVBS Asia,TVBS Asia Channel
 TVBS,re:.*TVBS(?!-[新新聞]).*,TVBS频道,TVBS电视台,TVBS綜合,TVBS综合,TVBS Channel
 TVBS新闻,re:.*TVBS[-\s]*[新新聞].*,TVBS新聞,TVBS 新聞,TVBS-新聞台,TVBS新闻台,TVBS新聞,TVBS News,TVBS-新闻,TVBS News Channel
@@ -331,8 +366,7 @@ ViuTV6+,re:.*ViuTV6\+.*,ViuTV6 plus,ViuTV6 加
 东森综合,re:.*[东東][森森][综綜][合合].*,东森综合台,EBC Variety
 东森超视,re:.*[东東][森森][超超][视視].*,东森超视台,EBC Super
 东森电影,re:.*[东東][森森][电電][影影].*,东森电影台,EBC Movie
-Now剧集,re:.*Now[^a-zA-Z0-9]*[剧劇][集集].*,Now剧集台,Now Drama
-Now华剧,re:.*Now[^a-zA-Z0-9]*[华華][剧劇].*,Now华剧台,Now Chinese Drama
+AMC电影台
 axn电影,re:.*AXN[^a-zA-Z0-9]*[电電][影影].*,AXN电影台,AXN Movies
 CINEMAX电影,re:.*CINEMAX[^a-zA-Z0-9]*[电電][影影].*,CINEMAX电影台,Cinemax
 靖天资讯,re:.*[靖靖][天天][资資][讯訊].*,靖天资讯台,GT Information
