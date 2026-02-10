@@ -164,19 +164,19 @@ CGTN阿语
 凤凰资讯
 凤凰香港
 香港卫视
-翡翠台
-明珠台
-黃金翡翠台
-翡翠剧集台(北美)
-明珠剧集台(北美)
-无线新闻
-无线卫星新闻
-无线新闻台(北美)
-无线星河
-无线娱乐
-无线财经
-无线功夫
-无线华丽
+TVB翡翠台
+TVB明珠台
+TVB黃金翡翠台
+TVB翡翠剧集台(北美)
+TVB明珠剧集台(北美)
+TVB无线新闻
+TVB无线卫星新闻
+TVB无线新闻台(北美)
+TVB无线星河
+TVB无线娱乐
+TVB无线财经
+TVB无线功夫
+TVB无线华丽
 TVB Plus
 TVB J1
 TVB J2
@@ -189,10 +189,36 @@ TVB J5
 Now直播台
 Now星影台
 Now爆谷台
+Now剧集台
+Now华剧台
+Now紫金国际
+Now报价台
+Now爆谷星影台
+Now财经台
+Now跑马668
+Now新闻台
+Now Golf 2
+Now Golf 3
+Now Sports 1
+Now Sports 2
+Now Sports 3
+Now Sports 4
+Now Sports 5
+Now Sports 6
+Now Sports 7
+Now Sports 641
+Now Sports 647
+Now Sports Plus
+Now Sports Premier 1
+Now Sports Premier 2
+Now Sports Premier 3
+Now Sports Premier 4
+Now Sports Premier 5
+Now Sports Premier 6
+Now Sports Premier 7
+Now Sports Prime
 娛樂新聞台(HK)
 美亞電影台(HK)
-龍華日韓台
-龍華經典台
 千禧經典台(HK)
 28 AI 智慧賽馬
 myTV SUPER 18台
@@ -264,6 +290,15 @@ MOMOTV
 纬来精彩
 八大第一
 八大综合
+龙华日韩
+龙华经典
+龙华电影
+龙华卡通
+龙华偶像
+龙华戏剧
+龙华洋片
+龙华影剧
+龙祥电影
 TVBS亚洲
 TVBS
 TVBS新闻
@@ -276,8 +311,7 @@ ViuTV6+
 东森综合
 东森超视
 东森电影
-Now剧集
-Now华剧
+AMC电影台
 axn电影
 CINEMAX电影
 靖天资讯
