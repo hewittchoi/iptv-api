@@ -135,4 +135,3 @@ http://ztha.top/TVBox/tv/thtv.txt
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
 
 # 添加个人已测试过的直播源为白名单
-https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/white_result.txt
