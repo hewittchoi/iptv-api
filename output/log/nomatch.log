@@ -1,34 +1,61 @@
-Ando TV,http://play.kankanlive.com/live/1711956137852982.m3u8
-Anshun Comprehensive News Channel,https://hplayer1.juyun.tv/camera/154379194.m3u8
-Beijing Traffic Radio TV [Geo-blocked],http://123.56.24.28:1935/live/fm1039/96K/tzwj_video.m3u8
-Beijing Youth Radio [Geo-blocked],http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8
-Bingtuan Satellite TV,http://49.113.179.174:4022/udp/238.125.4.13:5140
-Bread TV面包台 (720p),https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-BRTV Kaku Childrens Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
-BRTV Kaku Childrens Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
-BRTV Science & Education Channel,http://49.113.179.174:4022/udp/238.125.3.121:5140
-CETV1 (576p),http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV
-CETV2 (576p),http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV
-CGTN (1080p),https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-CGTN (1080p),https://english-livebkali.cgtn.com/live/encgtn.m3u8
-CGTN Arabic,https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
-CGTN Documentary (1080p),https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-CGTN Documentary,https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
-CGTN French,https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-CGTN Russian,https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-CGTN Spanish,https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-Channel Law,http://49.113.179.174:4022/udp/238.125.2.201:5140
-Chifeng Comprehensive News Chanel,http://play1-qk.nmtv.cn/live/1735546697341033.m3u8
-City Theater Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
-Documentary Humanities Channel,http://49.113.179.174:4022/udp/238.125.3.135:5140
-Dragon TV International (360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
-Ecology & Environment TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
-Foshan News TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
-Game Channel,http://49.113.179.174:4022/udp/238.125.1.36:5140
-Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
-Harbin Movie Channel,https://stream.hrbtv.net/yspd/playlist.m3u8
-Hunan Ping Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-JiaJia Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
-Jiangxi Children's Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv6.m3u8
-Jiangxi City Channel,https://play-live-hls.jxtvcn.com.cn/live-city/tv_jxtv2.m3u8
+CCTV4K真4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+上视纪实人文,http://www.wmviv.com/iptv/bc2t.php?id=shjsrw
+珠江卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
+上海卫视,http://112.27.235.94:8000/hls/28/index.m3u8
+CETV-01,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV-04,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+黑龙江视,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+睛彩广场,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
+纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+搜狐剧场,https://hdl-vip-ws.qf.56.com/live/lc_11730.flv
+新纪实,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+北京纪实科教8K,http://101.35.240.114:88/brtv8k.php
+翡翠高清,https://test-al-livepull.migucloud.com/live/CL7gYJcMM5BXZvyamZly3XZnyMmRJHUf2Rp12oP6KkG1PhQWJK.flv
+NOW新闻,http://bxtv.3a.ink/api.php?id=now
+NOW爆谷星影台,https://bxtv.3a.ink/api.php?id=xingying
+华丽翡翠台,http://r.jdshipin.com/thuYX
+HOY TV,http://r.jdshipin.com/sFw4S
+咪咕视频4K,http://r.jdshipin.com/ln4xk
+咪咕视频4K-2,http://r.jdshipin.com/Lqdwf
+凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
+翡翠台 backup,http://api.kkitv.itv888.vip:8080/streams/jutaw8wu0j9/index.m3u8
+iNews新闻台,http://api.kkitv.itv888.vip:8080/streams/o0ey7z1y0y/index.m3u8
+HOY资讯台,http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
+RHK 31,http://api.kkitv.itv888.vip:8080/streams/au9u4ktua3t/index.m3u8
+RHK 32,http://api.kkitv.itv888.vip:8080/streams/emzampd6m1i/index.m3u8
+VIUTV1,http://api.kkitv.itv888.vip:8080/streams/i76tznm59xp/index.m3u8
+Viu6,http://api.kkitv.itv888.vip:8080/streams/bvdslcl5cts/index.m3u8
+珠江卫视,http://iptv.4666888.xyz/iptv2A.php?id=19
+星空国际,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+华丽翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+中天娱乐,https://gdfire2.67890123.cn:8088/live/ztxw201.m3u8
+三立综合,http://live4play.uk/livehttpplay?channel_id=12038
+三立都会,http://live4play.uk/livehttpplay?channel_id=20100
+年代新闻,http://198.16.100.186:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+东森戏剧,http://live4play.uk/livehttpplay?channel_id=20072
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+CAT电影,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+HOY78,http://cdn.163189.xyz/live/hoy/stream.m3u8
+DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育1,https://stream1.freetv.fun/eltaai-er-da-ti-yu--1--wj-1.ctv
+ELEVEN体育2,https://stream1.freetv.fun/eltaai-er-da-ti-yu--2--wj-1.ctv
+ELEVEN体育3,https://stream1.freetv.fun/eltaai-er-da-ti-yu--3--wj-1.ctv
+半岛新闻,#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+韩国电影1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+韩国电影2,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+凤凰卫视台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
+Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+NOW NEWS,http://cdn.163189.xyz/163189/now
+iHOT 爱幼教,http://111.22.153.159:35455/itv/2000000004000000049.m3u8?cdn=hnbblive
+NewTV 魅力潇湘,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000001000006197/index.m3u8?channel-id=ystenlive&Contentid=1000000001000006197&livemode=1&stbId=YanG-1989
+NewTV 精品记录,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000013730/index.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=YanG-1989
