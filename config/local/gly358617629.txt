@@ -136,7 +136,6 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 江苏卫视,http://go.bkpcp.top/mg/jsws
 广东卫视,http://go.bkpcp.top/mg/gdws
-江苏卫视,http://go.bkpcp.top/mg/jsws
 东方卫视,http://go.bkpcp.top/mg/dfws
 陕西卫视,http://go.bkpcp.top/mg/sxws
 江西卫视,http://go.bkpcp.top/mg/jxws
@@ -164,7 +163,6 @@ CCTV-17,http://go.bkpcp.top/mg/cctv17
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 贵州卫视,http://go.bkpcp.top/mg/gzws
 四川卫视,http://go.bkpcp.top/mg/scws
-
 咪咕二,#genre#
 CCTV-1综合,http://go.061899.xyz:80/mg/cctv1
 CCTV-2财经,http://go.061899.xyz:80/mg/cctv2
@@ -184,7 +182,6 @@ CCTV-14少儿,http://go.061899.xyz:80/mg/cctv14
 CCTV-15音乐,http://go.061899.xyz:80/mg/cctv15
 CCTV-16奥林匹克,http://go.061899.xyz:80/mg/cctv16
 CCTV-17农业农村,http://go.061899.xyz:80/mg/cctv17
-
 深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 江苏卫视4k,http://8.138.7.223/tv/jsws4k.php
@@ -196,8 +193,6 @@ CCTV-17农业农村,http://go.061899.xyz:80/mg/cctv17
 广东卫视,http://go.061899.xyz:80/mg/gdws
 江西卫视,http://go.061899.xyz:80/mg/jxws
 河北卫视,http://go.061899.xyz:80/mg/hbws
-广东卫视,http://go.061899.xyz:80/mg/gdws
-江西卫视,http://go.061899.xyz:80/mg/jxws
 北京卫视,http://go.061899.xyz:80/mg/bjws
 天津卫视,http://go.061899.xyz:80/mg/tjws
 辽宁卫视,http://go.061899.xyz:80/mg/lnws
@@ -211,8 +206,6 @@ CCTV-17农业农村,http://go.061899.xyz:80/mg/cctv17
 广西卫视,http://go.061899.xyz:80/mg/gxws
 吉林卫视,http://go.061899.xyz:80/mg/jlbws
 黑龙江卫视,http://go.061899.xyz:80/mg/hljws
-
-
 河北电信组播,#genre#
 河北卫视,http://kictoc.top:7000/rtp/239.254.200.174:6000
 河北经济,http://kictoc.top:7000/rtp/239.254.200.18:6000
@@ -243,7 +236,6 @@ CCTV15,http://kictoc.top:7000/rtp/239.254.201.124:8136
 CCTV16,http://kictoc.top:7000/rtp/239.254.201.150:6345
 CCTV17,http://kictoc.top:7000/rtp/239.254.201.120:8144
 CCTV4K,http://kictoc.top:7000/rtp/239.253.93.134:6631
-
 湖南卫视,http://kictoc.top:7000/rtp/239.254.200.48:8012
 浙江卫视,http://kictoc.top:7000/rtp/239.254.200.53:8036
 江苏卫视,http://kictoc.top:7000/rtp/239.254.200.51:8028
@@ -274,7 +266,6 @@ CCTV4K,http://kictoc.top:7000/rtp/239.253.93.134:6631
 宁夏,http://kictoc.top:7000/rtp/239.254.200.87:8124
 西藏卫视,http://kictoc.top:7000/rtp/239.254.200.88:8164
 新疆卫视,http://kictoc.top:7000/rtp/239.254.200.89:8160
-
 河北联通组播,#genre#
 河北卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.154:6011
 河北经济,http://www.tszhgjj.cn:7000/rtp/239.253.92.171:6001
@@ -285,7 +276,6 @@ CCTV4K,http://kictoc.top:7000/rtp/239.253.93.134:6631
 河北农民,http://www.tszhgjj.cn:7000/rtp/239.253.92.176:6006
 河北睛彩,http://www.tszhgjj.cn:7000/rtp/239.253.92.104:6221
 隆尧电视,http://www.tszhgjj.cn:7000/rtp/239.253.93.65:6230
-
 CCTV1,http://www.tszhgjj.cn:7000/rtp/239.253.92.83:8012
 CCTV2,http://www.tszhgjj.cn:7000/rtp/239.253.92.190:6065
 CCTV3,http://www.tszhgjj.cn:7000/rtp/239.253.92.191:6057        
@@ -304,7 +294,6 @@ CCTV14,http://www.tszhgjj.cn:7000/rtp/239.253.92.198:6063
 CCTV15,http://www.tszhgjj.cn:7000/rtp/239.253.93.154:6322
 CCTV17,http://www.tszhgjj.cn:7000/rtp/239.253.93.150:6318
 CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
-
 湖南卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.84:8015
 浙江卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.90:8020
 江苏卫视,http://www.tszhgjj.cn:7000/rtp/239.253.92.88:8018
@@ -331,9 +320,6 @@ CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
 金鹰卡通,http://www.tszhgjj.cn:7000/rtp/239.253.92.163:8055
 嘉佳卡通,http://www.tszhgjj.cn:7000/rtp/239.253.93.203:6381
 优漫卡通,http://www.tszhgjj.cn:7000/rtp/239.253.93.204:6382
-
-
-
 河北,#genre#
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1
 河北经济,http://tv.pull.hebtv.com:80/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
@@ -351,7 +337,6 @@ CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8
 昌黎综合,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8
-
 河南,#genre#
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南电视剧,http://1.94.31.214/php/hntv.php?id=hndsj
@@ -366,7 +351,6 @@ CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
 武术世界,http://1.94.31.214/php/hntv.php?id=wspd
 睛彩中原,http://1.94.31.214/php/hntv.php?id=jczy
 移动戏曲,http://1.94.31.214/php/hntv.php?id=ydxj
-
 影视,#genre#
 CHC动作电影,http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CHC家庭电影,http://hlsbkmgsplive.miguvideo.com/wd_r1/2018/gesee/chcdzdy/600/01.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
@@ -387,5 +371,90 @@ CHC影迷电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/chcymdy/57/2025041
 黑莓动画,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/donghuawg/1.m3u8
 炫舞未来,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/HD-4000k-1080P-xwwl/1.m3u8
 精品萌宠,http://hbgslbserv.taipan.jda.bcs.ottcn.com:6060/030000001001/jingpinmc/1.m3u8
+梨园,http://183.196.87.176:880/hls/57/index.m3u8
+海南卫视HD,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+央视频,#genre#
+CCTV1,http://43.156.8.127:5050/ysp?id=2024078201&pid=600001859&q=fhd
+CCTV2,http://43.156.8.127:5050/ysp?id=2024075401&pid=600001800&q=fhd
+CCTV3,http://43.156.8.127:5050/ysp?id=2024068501&pid=600001801&q=fhd
+CCTV4,http://43.156.8.127:5050/ysp?id=2029797103&pid=600001814&q=fhd
+CCTV5,http://43.156.8.127:5050/ysp?id=2024078401&pid=600001818&q=fhd
+CCTV5+,http://43.156.8.127:5050/ysp?id=2024078001&pid=600001817&q=fhd
+CCTV6,http://43.156.8.127:5050/ysp?id=2013693901&pid=600108442&q=fhd
+CCTV7,http://43.156.8.127:5050/ysp?id=2024072001&pid=600004092&q=fhd
+CCTV8,http://43.156.8.127:5050/ysp?id=2029793001&pid=600001803&q=fhd
+CCTV9,http://43.156.8.127:5050/ysp?id=2024078601&pid=600004078&q=fhd
+CCTV10,http://43.156.8.127:5050/ysp?id=2024078701&pid=600001805&q=fhd
+CCTV11,http://43.156.8.127:5050/ysp?id=2027248701&pid=600001806&q=fhd
+CCTV12,http://43.156.8.127:5050/ysp?id=2027248801&pid=600001807&q=fhd
+CCTV13,http://43.156.8.127:5050/ysp?id=2029797203&pid=600001811&q=fhd
+CCTV14,http://43.156.8.127:5050/ysp?id=2027248901&pid=600001809&q=fhd
+CCTV15,http://43.156.8.127:5050/ysp?id=2027249001&pid=600001815&q=fhd
+CCTV16,http://43.156.8.127:5050/ysp?id=2027249101&pid=600098637&q=fhd
+CCTV16(4K),http://43.156.8.127:5050/ysp?id=2027249301&pid=600099502&q=fhd
+CCTV17,http://43.156.8.127:5050/ysp?id=2027249401&pid=600001810&q=fhd
+CCTV4K,http://43.156.8.127:5050/ysp?id=2027249501&pid=600002264&q=fhd
+CCTV8K,http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
+北京卫视,http://43.156.8.127:5050/ysp?id=2024052703&pid=600002309&q=fhd
+东方卫视,http://43.156.8.127:5050/ysp?id=2024054503&pid=600002483&q=fhd
+江苏卫视,http://43.156.8.127:5050/ysp?id=2024171103&pid=600002521&q=fhd
+浙江卫视,http://43.156.8.127:5050/ysp?id=2024054703&pid=600002520&q=fhd
+湖南卫视,http://43.156.8.127:5050/ysp?id=2024054803&pid=600002475&q=fhd
+湖北卫视,http://43.156.8.127:5050/ysp?id=2024171203&pid=600002508&q=fhd
+广东卫视,http://43.156.8.127:5050/ysp?id=2024060903&pid=600002485&q=fhd
+广西卫视,http://43.156.8.127:5050/ysp?id=2024060703&pid=600002509&q=fhd
+黑龙江卫视,http://43.156.8.127:5050/ysp?id=2029797003&pid=600002498&q=fhd
+海南卫视,http://43.156.8.127:5050/ysp?id=2024055603&pid=600002506&q=fhd
+重庆卫视,http://43.156.8.127:5050/ysp?id=2024061103&pid=600002531&q=fhd
+中国教育1台,http://43.156.8.127:5050/ysp?id=2022823801&pid=600171827&q=fhd
+深圳卫视,http://43.156.8.127:5050/ysp?id=2024061303&pid=600002481&q=fhd
+四川卫视,http://43.156.8.127:5050/ysp?id=2024061403&pid=600002516&q=fhd
+河南卫视,http://43.156.8.127:5050/ysp?id=2029797303&pid=600002525&q=fhd
+东南卫视,http://43.156.8.127:5050/ysp?id=2024061503&pid=600002484&q=fhd
+贵州卫视,http://43.156.8.127:5050/ysp?id=2024061603&pid=600002490&q=fhd
+江西卫视,http://43.156.8.127:5050/ysp?id=2024061703&pid=600002503&q=fhd
+辽宁卫视,http://43.156.8.127:5050/ysp?id=2024171303&pid=600002505&q=fhd
+安徽卫视,http://43.156.8.127:5050/ysp?id=2024171403&pid=600002532&q=fhd
+河北卫视,http://43.156.8.127:5050/ysp?id=2024171503&pid=600002493&q=fhd
+山东卫视,http://43.156.8.127:5050/ysp?id=2029787903&pid=600002513&q=fhd
+天津卫视,http://43.156.8.127:5050/ysp?id=2019927003&pid=600152137&q=fhd
+陕西卫视,http://43.156.8.127:5050/ysp?id=2029795103&pid=600190400&q=fhd
+内蒙古卫视,http://43.156.8.127:5050/ysp?id=2025561203&pid=600190401&q=fhd
+甘肃卫视,http://43.156.8.127:5050/ysp?id=2025561703&pid=600190408&q=fhd
+宁夏卫视,http://43.156.8.127:5050/ysp?id=2025608503&pid=600190737&q=fhd
+山西卫视,http://43.156.8.127:5050/ysp?id=2025560803&pid=600190407&q=fhd
+云南卫视,http://43.156.8.127:5050/ysp?id=2025561303&pid=600190402&q=fhd
+吉林卫视,http://43.156.8.127:5050/ysp?id=2025561503&pid=600190405&q=fhd
+青海卫视,http://43.156.8.127:5050/ysp?id=2025559103&pid=600190406&q=fhd
+66	东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+67	北京卫视,http://119.91.7.169:2026/ysws.php?id=北京卫视
+68	天津卫视,http://119.91.7.169:2026/ysws.php?id=天津卫视
+69	海南卫视,http://119.91.7.169:2026/ysws.php?id=海南卫视
+70	湖南卫视,http://119.91.7.169:2026/ysws.php?id=湖南卫视
+71	广东卫视,http://119.91.7.169:2026/ysws.php?id=广东卫视
+72	广西卫视,http://119.91.7.169:2026/ysws.php?id=广西卫视
+73	深圳卫视,http://119.91.7.169:2026/ysws.php?id=深圳卫视
+74	江苏卫视,http://119.91.7.169:2026/ysws.php?id=江苏卫视
+75	江西卫视,http://119.91.7.169:2026/ysws.php?id=江西卫视
+76	浙江卫视,http://119.91.7.169:2026/ysws.php?id=浙江卫视
+77	湖北卫视,http://119.91.7.169:2026/ysws.php?id=湖北卫视
+78	安徽卫视,http://119.91.7.169:2026/ysws.php?id=安徽卫视
+79	山东卫视,http://119.91.7.169:2026/ysws.php?id=山东卫视
+80	山西卫视,http://119.91.7.169:2026/ysws.php?id=山西卫视
+81	河南卫视,http://119.91.7.169:2026/ysws.php?id=河南卫视
+82	河北卫视,http://119.91.7.169:2026/ysws.php?id=河北卫视
+83	龙江卫视,http://119.91.7.169:2026/ysws.php?id=黑龙江卫视
+84	吉林卫视,http://119.91.7.169:2026/ysws.php?id=吉林卫视
+85	辽宁卫视,http://119.91.7.169:2026/ysws.php?id=辽宁卫视
+86	云南卫视,http://119.91.7.169:2026/ysws.php?id=云南卫视
+87	贵州卫视,http://119.91.7.169:2026/ysws.php?id=贵州卫视
+88	四川卫视,http://119.91.7.169:2026/ysws.php?id=四川卫视
+89	重庆卫视,http://119.91.7.169:2026/ysws.php?id=重庆卫视
+90	东南卫视,http://119.91.7.169:2026/ysws.php?id=东南卫视
+东方卫视4k,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+湖南卫视4k,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+浙江卫视4k,https://play-qukan.cztv.com:443/live/1758879019692345.m3u8
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Pnew.m3u8
+浙江卫视,http://go.bkpcp.top/mg/zjws
 梨园,http://183.196.87.176:880/hls/57/index.m3u8 
-
