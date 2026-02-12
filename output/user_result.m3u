@@ -1726,8 +1726,6 @@ http://8.138.7.223/tv/gdmzyd.php?id=1
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港",TVB翡翠台
 http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港",TVB翡翠台
-http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港",TVB翡翠台
 http://rihou.cc:555/tv/[Pd]无线翡翠
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB明珠台.png" group-title="🇭🇰香港",TVB明珠台
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
