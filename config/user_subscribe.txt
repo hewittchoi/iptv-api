@@ -13,6 +13,7 @@ http://43.251.226.89:8080/live.txt
 
 # alantang1977/jtv，
 https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
+
 # Guovin每日更新工具
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
