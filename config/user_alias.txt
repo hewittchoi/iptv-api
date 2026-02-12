@@ -239,7 +239,70 @@ CGTN阿语,CGTN 阿语,CGTN العربية,CGTN阿拉伯语,CGTN 阿拉伯语
 阳江-1
 阳江-2
 
-# 🇭🇰香港,#genre#
+# 🌊台湾频道,#genre#
+中视,re:.*[中中][视視][台臺]?.*,中视台,中国电视公司,CTV Main
+华视,re:.*[华華][视視][台臺]?.*,华视台,中华电视台,CTS Main
+民视,re:.*[民民][视視][台臺]?.*,民视台,民间全民电视,FTV Main
+台视,re:.*[台臺][视視][台臺]?.*,台视台,台湾电视台,TTV Main
+中视新闻,re:.*[中中][视視][新新聞].*,中视新闻台,CTV News
+华视新闻,re:.*[华華][视視][新新聞].*,华视新闻台,CTS News
+民视新闻,re:.*[民民][视視][新新聞].*,民视新闻台,FTV News
+台视新闻,re:.*[台臺][视視][新新聞].*,台视新闻台,TTV News
+中天新闻,re:.*[中中][天天][新新聞].*,中天新闻台,CTi News
+非凡新闻,re:.*[非非][凡凡][新新聞].*,非凡新闻台,Unique News
+公视新闻,re:.*[公公][视視][新新聞].*,公视新闻台,PTS News
+三立新闻,re:.*[三三][立立][新新聞].*,三立新闻台,SET News
+镜新闻,re:.*[镜鏡][新新聞].*,镜新闻台,Mirror News
+东森新闻,re:.*[东東][森森][新新聞].*,东森新闻台,EBC News,東森新聞
+寰宇新闻,re:.*寰宇(?:新闻|新聞)(?:台|頻道)?.*,寰宇新闻台,寰宇新聞台,寰宇新闻,寰宇新聞,寰宇新聞頻道
+三立台湾,re:.*[三三][立立][台臺][湾灣].*,三立台湾台,SET Taiwan
+中天亚洲,re:.*[中中][天天][亚亞][洲洲].*,中天亚洲台,CTi Asia
+纬来体育,re:.*[纬緯][来来][体體][育育].*,纬来体育台,VL Sports,纬来体育台,re:.*纬来体育.*,纬来体育,纬来体育频道,緯來體育,緯來體育台,VL体育
+纬来育乐,re:.*[纬緯][来来][育育][乐乐樂].*,纬来育乐台,VL Variety
+纬来电影,re:.*[纬緯][来来][电電][影影].*,纬来电影台,VL Movie
+纬来篮球,re:.*[纬緯][来来][篮籃][球球].*,纬来篮球台,VL Basketball,NBATV Taiwan
+纬来日本,re:.*[纬緯][来来][日日][本本].*,纬来日本台,VL Japan
+纬来精彩,re:.*[纬緯][来来][精精][彩彩].*,纬来精彩台,VL Wonderful
+八大第一,re:.*[八八][大大][第第][一一].*,八大第一台,GTV First
+八大综合,re:.*[八八][大大][综綜][合合].*,八大综合台,GTV Variety
+龙华日韩,龍華日韓台,re:.*龍華日韓.*,龙华日韩台,龍華日本韓國台,Longhua Japan-Korea Channel,Longhua日韓台,龍華日韓頻道
+龙华经典,龍華經典台,re:.*龍華經典.*,龙华经典台,龍華經典電影台,Longhua Classic Channel,Longhua Classics,龍華經典頻道
+龙华电影
+龙华卡通
+龙华偶像
+龙华戏剧
+龙华洋片
+龙华影剧
+龙祥电影
+TVBS亚洲,re:.*TVBS[^a-zA-Z0-9]*[亚亞][洲洲].*,TVBS Asia,TVBS Asia Channel
+TVBS,re:.*TVBS(?!-[新新聞]).*,TVBS频道,TVBS电视台,TVBS綜合,TVBS综合,TVBS Channel
+TVBS新闻,re:.*TVBS[-\s]*[新新聞].*,TVBS新聞,TVBS 新聞,TVBS-新聞台,TVBS新闻台,TVBS新聞,TVBS News,TVBS-新闻,TVBS News Channel
+TVB1,re:.*TVB[^a-zA-Z0-9]*1.*,TVB1台,TVB Channel 1
+TVBe,re:.*TVBe.*,TVBe频道,TVBe Channel
+Viutv,re:.*Viutv.*,ViuTV,ViuTV频道
+ViuTV6+,re:.*ViuTV6\+.*,ViuTV6 plus,ViuTV6 加
+东森财经,re:.*[东東][森森][财財][经經].*,东森财经新闻台,EBC Financial News
+耀才财经,re:.*[耀耀][才才][财財][经經].*,耀才财经台,Bright Smart Finance
+东森综合,re:.*[东東][森森][综綜][合合].*,东森综合台,EBC Variety
+东森超视,re:.*[东東][森森][超超][视視].*,东森超视台,EBC Super
+东森电影,re:.*[东東][森森][电電][影影].*,东森电影台,EBC Movie
+AMC电影台
+axn电影,re:.*AXN[^a-zA-Z0-9]*[电電][影影].*,AXN电影台,AXN Movies
+CINEMAX电影,re:.*CINEMAX[^a-zA-Z0-9]*[电電][影影].*,CINEMAX电影台,Cinemax
+靖天资讯,re:.*[靖靖][天天][资資][讯訊].*,靖天资讯台,GT Information
+星光视界,re:.*[星星][光光][视視][界界].*,星光视界台,Starlight Vision
+星卫娱乐,re:.*[星星][卫衛][娱娛][乐乐樂].*,星卫娱乐台,Star Entertainment
+卫视卡式,re:.*[卫衛][视視][卡卡][式式].*,卫视卡式台,Star Chinese Movies
+千禧经典台,re:.*[千千][禧禧][经經][典典][台臺].*,千禧经典台,Millennium Classics
+经典影视台,re:.*[经經][典典][影影][视視][台臺].*,经典影视台,Classic Movie TV
+Channel[V],re:.*Channel[^a-zA-Z0-9]*[Vv].*,Channel V台,Channel V International
+番薯音乐,re:.*[番番][薯薯][音音][乐乐樂].*,番薯音乐台,Yam Music
+番薯,re:.*[番番][薯薯][台臺]?.*,番薯台,Yam TV
+大爱1台,re:.*[大大][爱愛][一1][台臺]?.*,大爱一台,DaAi One,DaAi TV1
+大爱2台,re:.*[大大][爱愛][二2][台臺]?.*,大爱二台,DaAi Two,DaAi TV2
+唯心电视,re:.*[唯唯][心心][电電][视視].*,唯心电视台,Weixin TV
+
+# 🇭🇰香港频道,#genre#
 凤凰中文,re:.*(?:凤凰|鳳凰).*(?:中文|中文台).*,凤凰卫视中文台,凤凰中文台,鳳凰中文台,鳳凰衛視中文台
 凤凰资讯,re:.*(?:凤凰|鳳凰).*(?:资讯|資訊).*,凤凰资讯台,凤凰卫视资讯台,鳳凰資訊台,鳳凰衛視資訊台
 凤凰香港,re:.*(?:凤凰|鳳凰).*香港.*,凤凰卫视香港台,凤凰香港台,鳳凰香港台,鳳凰衛視香港台
@@ -337,74 +400,13 @@ MOMOTV,re:.*MOMO[.\s]*TV.*,MOMO TV,MOMO电视台,MOMO频道,MOMO TV台,MOMO TV C
 香港佛陀,re:.*香港佛陀.*,香港佛陀台,香港佛陀频道,Hong Kong Buddha,Buddha TV Hong Kong,香港佛教台
 香港面包台,re:.*香港面包.*,香港面包,香港面包频道,Hong Kong Bread,Bread TV Hong Kong,面包台
 香港電台(RTHK 34),re:.*香港電台.*\(?RTHK[.\s]*34\)?.*,香港电台RTHK 34,RTHK 34,香港電台34,香港电台34,港台RTHK 34
-# 🇲🇴澳门,#genre#
+# 🇲🇴澳门频道,#genre#
 澳门莲花卫视,re:.*莲花卫视.*,莲花卫视,re:.*(?:莲花|蓮花)[\s-]*(?:[电電][视視]|[卫衛][视視]|台).*,莲花台,莲花电视台,蓮花衛視,蓮花電視台,Macau Lotus TV
 澳视澳门,re:.*澳视澳门.*
 澳视卫星,澳亚卫视,澳门卫视
 澳门体育,re:.*澳门体育.*
 澳门综艺,re:.*澳门综艺.*
-# 🌊台湾频道,#genre#
-中视,re:.*[中中][视視][台臺]?.*,中视台,中国电视公司,CTV Main
-华视,re:.*[华華][视視][台臺]?.*,华视台,中华电视台,CTS Main
-民视,re:.*[民民][视視][台臺]?.*,民视台,民间全民电视,FTV Main
-台视,re:.*[台臺][视視][台臺]?.*,台视台,台湾电视台,TTV Main
-中视新闻,re:.*[中中][视視][新新聞].*,中视新闻台,CTV News
-华视新闻,re:.*[华華][视視][新新聞].*,华视新闻台,CTS News
-民视新闻,re:.*[民民][视視][新新聞].*,民视新闻台,FTV News
-台视新闻,re:.*[台臺][视視][新新聞].*,台视新闻台,TTV News
-中天新闻,re:.*[中中][天天][新新聞].*,中天新闻台,CTi News
-非凡新闻,re:.*[非非][凡凡][新新聞].*,非凡新闻台,Unique News
-公视新闻,re:.*[公公][视視][新新聞].*,公视新闻台,PTS News
-三立新闻,re:.*[三三][立立][新新聞].*,三立新闻台,SET News
-镜新闻,re:.*[镜鏡][新新聞].*,镜新闻台,Mirror News
-东森新闻,re:.*[东東][森森][新新聞].*,东森新闻台,EBC News,東森新聞
-寰宇新闻,re:.*寰宇(?:新闻|新聞)(?:台|頻道)?.*,寰宇新闻台,寰宇新聞台,寰宇新闻,寰宇新聞,寰宇新聞頻道
-三立台湾,re:.*[三三][立立][台臺][湾灣].*,三立台湾台,SET Taiwan
-中天亚洲,re:.*[中中][天天][亚亞][洲洲].*,中天亚洲台,CTi Asia
-纬来体育,re:.*[纬緯][来来][体體][育育].*,纬来体育台,VL Sports,纬来体育台,re:.*纬来体育.*,纬来体育,纬来体育频道,緯來體育,緯來體育台,VL体育
-纬来育乐,re:.*[纬緯][来来][育育][乐乐樂].*,纬来育乐台,VL Variety
-纬来电影,re:.*[纬緯][来来][电電][影影].*,纬来电影台,VL Movie
-纬来篮球,re:.*[纬緯][来来][篮籃][球球].*,纬来篮球台,VL Basketball,NBATV Taiwan
-纬来日本,re:.*[纬緯][来来][日日][本本].*,纬来日本台,VL Japan
-纬来精彩,re:.*[纬緯][来来][精精][彩彩].*,纬来精彩台,VL Wonderful
-八大第一,re:.*[八八][大大][第第][一一].*,八大第一台,GTV First
-八大综合,re:.*[八八][大大][综綜][合合].*,八大综合台,GTV Variety
-龙华日韩,龍華日韓台,re:.*龍華日韓.*,龙华日韩台,龍華日本韓國台,Longhua Japan-Korea Channel,Longhua日韓台,龍華日韓頻道
-龙华经典,龍華經典台,re:.*龍華經典.*,龙华经典台,龍華經典電影台,Longhua Classic Channel,Longhua Classics,龍華經典頻道
-龙华电影
-龙华卡通
-龙华偶像
-龙华戏剧
-龙华洋片
-龙华影剧
-龙祥电影
-TVBS亚洲,re:.*TVBS[^a-zA-Z0-9]*[亚亞][洲洲].*,TVBS Asia,TVBS Asia Channel
-TVBS,re:.*TVBS(?!-[新新聞]).*,TVBS频道,TVBS电视台,TVBS綜合,TVBS综合,TVBS Channel
-TVBS新闻,re:.*TVBS[-\s]*[新新聞].*,TVBS新聞,TVBS 新聞,TVBS-新聞台,TVBS新闻台,TVBS新聞,TVBS News,TVBS-新闻,TVBS News Channel
-TVB1,re:.*TVB[^a-zA-Z0-9]*1.*,TVB1台,TVB Channel 1
-TVBe,re:.*TVBe.*,TVBe频道,TVBe Channel
-Viutv,re:.*Viutv.*,ViuTV,ViuTV频道
-ViuTV6+,re:.*ViuTV6\+.*,ViuTV6 plus,ViuTV6 加
-东森财经,re:.*[东東][森森][财財][经經].*,东森财经新闻台,EBC Financial News
-耀才财经,re:.*[耀耀][才才][财財][经經].*,耀才财经台,Bright Smart Finance
-东森综合,re:.*[东東][森森][综綜][合合].*,东森综合台,EBC Variety
-东森超视,re:.*[东東][森森][超超][视視].*,东森超视台,EBC Super
-东森电影,re:.*[东東][森森][电電][影影].*,东森电影台,EBC Movie
-AMC电影台
-axn电影,re:.*AXN[^a-zA-Z0-9]*[电電][影影].*,AXN电影台,AXN Movies
-CINEMAX电影,re:.*CINEMAX[^a-zA-Z0-9]*[电電][影影].*,CINEMAX电影台,Cinemax
-靖天资讯,re:.*[靖靖][天天][资資][讯訊].*,靖天资讯台,GT Information
-星光视界,re:.*[星星][光光][视視][界界].*,星光视界台,Starlight Vision
-星卫娱乐,re:.*[星星][卫衛][娱娛][乐乐樂].*,星卫娱乐台,Star Entertainment
-卫视卡式,re:.*[卫衛][视視][卡卡][式式].*,卫视卡式台,Star Chinese Movies
-千禧经典台,re:.*[千千][禧禧][经經][典典][台臺].*,千禧经典台,Millennium Classics
-经典影视台,re:.*[经經][典典][影影][视視][台臺].*,经典影视台,Classic Movie TV
-Channel[V],re:.*Channel[^a-zA-Z0-9]*[Vv].*,Channel V台,Channel V International
-番薯音乐,re:.*[番番][薯薯][音音][乐乐樂].*,番薯音乐台,Yam Music
-番薯,re:.*[番番][薯薯][台臺]?.*,番薯台,Yam TV
-大爱1台,re:.*[大大][爱愛][一1][台臺]?.*,大爱一台,DaAi One,DaAi TV1
-大爱2台,re:.*[大大][爱愛][二2][台臺]?.*,大爱二台,DaAi Two,DaAi TV2
-唯心电视,re:.*[唯唯][心心][电電][视視].*,唯心电视台,Weixin TV
+
 # 🎬电影频道,#genre#
 1905电影,re:.*1905[^a-zA-Z0-9]*[电電][影影].*,1905电影网,1905 Movie Channel
 1905电影亚洲,re:.*1905[^a-zA-Z0-9]*[电電][影影][^a-zA-Z0-9]*[亚亞][洲洲].*,1905电影亚洲频道,1905 Movie Asia,1905电影(亚洲),1905电影网(亚洲),1905电影(国内),1905电影网(国内),1905电影网国内,1905亚洲电影
