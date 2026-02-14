@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/liuchuang0321/K-TV/refs/heads/master/output/us
 # https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://live.zbds.top/tv/iptv6.txt
-https://live.zbds.top/tv/iptv4.txt
+# https://live.zbds.top/tv/iptv4.txt
 
 # 我自己的源
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
