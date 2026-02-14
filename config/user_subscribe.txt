@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
 # 潇雨萌萌
-http://43.251.226.89:8080/live.txt
+# http://43.251.226.89:8080/live.txt
 
 # alantang1977/jtv，
 https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
@@ -27,17 +27,14 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.zbds.top/tv/iptv4.txt
 
 # 我自己的源
-https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/white_result.txt
-https://raw.githubusercontent.com/hewittchoi/IPTV-M3U-Checker2/refs/heads/master/output/test_result.txt
 https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
 # https://raw.githubusercontent.com/hewittchoi/tv/refs/heads/main/itvlist.txt
 
 # https://freetv.fun/zh-hans/playlist
-https://t.freetv.fun/m3u/playlist.txt
+# https://t.freetv.fun/m3u/playlist.txt
 
 # alenin-zhang，2026年1月27日新找的源
 https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/CNTV.txt
-
 
 # hsh58，2025年2月16日测试结果非常好，比较短，自己添加
 https://raw.githubusercontent.com/hsh58/ds/refs/heads/master/ds.txt
@@ -46,8 +43,8 @@ https://raw.githubusercontent.com/hsh58/ds/refs/heads/master/ds.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/cfe22eb9ffe49d50370a686ca8ed95031a5ee8b5/txt/IPTV.txt
 
 # wwb521，酒店源好像不卡
-https://raw.githubusercontent.com/wwb521/live/8714f92a940dad6d2537129b39d29c5209ee4cce/tv.txt
-https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
+# https://raw.githubusercontent.com/wwb521/live/8714f92a940dad6d2537129b39d29c5209ee4cce/tv.txt
+# https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.txt
 
 # develop202
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
