@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-24 05:54:28,http://go.bkpcp.top/mg/cctv1
+2026-02-26 05:23:22,http://go.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
@@ -56,20 +56,20 @@ CGTN西语,http://go.bkpcp.top/mg/cgtne
 CGTN阿语,http://go.bkpcp.top/mg/cgtna
 
 📡卫视频道,#genre#
-广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://go.061899.xyz:80/mg/gdws
+广东卫视,http://go.bkpcp.top/mg/gdws
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://go.061899.xyz:80/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
 大湾区卫视,http://go.bkpcp.top/mg/gddwq
 湖南卫视,http://go.bkpcp.top/mg/hunws
-浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://go.061899.xyz:80/mg/zjws
-江苏卫视,http://go.061899.xyz:80/mg/jsws
 江苏卫视,http://go.bkpcp.top/mg/jsws
-广西卫视,http://go.bkpcp.top/mg/gxws
+江苏卫视,http://go.061899.xyz:80/mg/jsws
 广西卫视,http://go.061899.xyz:80/mg/gxws
+广西卫视,http://go.bkpcp.top/mg/gxws
 东南卫视,http://go.061899.xyz:80/mg/dnws
 东南卫视,http://go.bkpcp.top/mg/dnws
 厦门卫视,http://go.bkpcp.top/mg/xmws
@@ -84,8 +84,8 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 黑龙江卫视,http://go.061899.xyz:80/mg/hljws
 辽宁卫视,http://go.bkpcp.top/mg/lnws
 辽宁卫视,http://go.061899.xyz:80/mg/lnws
-吉林卫视,http://go.bkpcp.top/mg/jlws
 吉林卫视,http://go.061899.xyz:80/mg/jlbws
+吉林卫视,http://go.bkpcp.top/mg/jlws
 湖北卫视,http://go.061899.xyz:80/mg/hubws
 湖北卫视,http://go.bkpcp.top/mg/hubws
 山东卫视,http://go.bkpcp.top/mg/sdws
@@ -96,18 +96,18 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 河南卫视,http://go.061899.xyz:80/mg/hnws
 贵州卫视,http://go.061899.xyz:80/mg/gzws
 贵州卫视,http://go.bkpcp.top/mg/gzws
-重庆卫视,http://go.061899.xyz:80/mg/cqws
 重庆卫视,http://go.bkpcp.top/mg/cqws
-四川卫视,http://go.bkpcp.top/mg/scws
+重庆卫视,http://go.061899.xyz:80/mg/cqws
 四川卫视,http://go.061899.xyz:80/mg/scws
+四川卫视,http://go.bkpcp.top/mg/scws
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://go.061899.xyz:80/mg/jxws
 云南卫视,http://go.bkpcp.top/mg/ynws
 延边卫视,http://go.bkpcp.top/mg/ybws
 新疆卫视,http://go.bkpcp.top/mg/xjws
 青海卫视,http://go.bkpcp.top/mg/qhws
-内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 内蒙古卫视,http://go.bkpcp.top/mg/nmws
+内蒙古卫视,http://go.bkpcp.top/mg/nmgws
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 宁夏卫视,http://go.bkpcp.top/mg/lnws
 宁夏卫视,http://go.061899.xyz:80/mg/lnws
@@ -121,8 +121,8 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 康巴卫视,http://go.bkpcp.top/mg/kbws
 
 🐤广东频道,#genre#
-广东卫视,http://go.bkpcp.top/mg/gdws
 广东卫视,http://go.061899.xyz:80/mg/gdws
+广东卫视,http://go.bkpcp.top/mg/gdws
 深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://go.061899.xyz:80/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
@@ -144,14 +144,14 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
-TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://cdn6.163189.xyz/163189/fct4k
+TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
-HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
 港台电视31,http://43.251.226.89:8080/play/918.m3u8
 港台电视32,http://43.251.226.89:8080/play/919.m3u8
 
@@ -166,8 +166,8 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 CHC动作电影,http://go.bkpcp.top/mg/chcdz
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC家庭影院,http://go.bkpcp.top/mg/chcjt
 CHC家庭影院,http://go.bkpcp.top/mg/jtyy
+CHC家庭影院,http://go.bkpcp.top/mg/chcjt
 IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 
 🏀体育频道,#genre#
@@ -181,13 +181,13 @@ CCTV16奥林匹克,http://go.bkpcp.top/mg/cctv16
 CCTV16奥林匹克,http://go.061899.xyz:80/mg/cctv16
 广东体育,http://go.bkpcp.top/mg/gdty
 江苏体育,http://go.bkpcp.top/mg/jstyxx
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
 睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
 睛彩青少,http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 魅力足球,http://go.bkpcp.top/mg/mlzq
@@ -224,13 +224,13 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 🔢BesTV百视,#genre#
 
 🔢NewTV,#genre#
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
 睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
 睛彩青少,http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 
@@ -273,8 +273,8 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 山东教育,http://go.bkpcp.top/mg/sdjy
 
 🇨🇳浙江频道,#genre#
-浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://go.bkpcp.top/mg/zjws
 浙江卫视,http://go.061899.xyz:80/mg/zjws
 之江纪录,http://go.bkpcp.top/mg/zjjl
 杭州综合,http://go.bkpcp.top/mg/hzzh
@@ -287,10 +287,10 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 嵊泗新闻综合,http://go.bkpcp.top/mg/ssxwzh
 
 🇨🇳江苏频道,#genre#
-江苏卫视,http://go.061899.xyz:80/mg/jsws
 江苏卫视,http://go.bkpcp.top/mg/jsws
-苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+江苏卫视,http://go.061899.xyz:80/mg/jsws
 苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 优漫卡通,http://go.bkpcp.top/mg/ymkt
 江苏教育,http://go.bkpcp.top/mg/jsjy
 江苏城市,http://go.bkpcp.top/mg/jscs
