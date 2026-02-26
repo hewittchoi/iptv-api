@@ -1,6 +1,8 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+# 自带裤佬
 https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+# 自带
 https://gitee.com/gly358617629/iptv/raw/master/IPTV.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
