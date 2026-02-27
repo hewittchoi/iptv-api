@@ -3039,7 +3039,6 @@ url
 url
 #EXTINF:-1 tvg-name="求索科学" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/求索科学.png" group-title="🈳无结果频道",求索科学
 url
-
 #EXTINF:-1,group-title="🎽咪视界直播",咪视界4K
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000010000005180
 #EXTINF:-1,group-title="🎽咪视界直播",至臻视界4K
@@ -3066,7 +3065,7 @@ http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008176
 #EXTINF:-1,group-title="🎽咪视界直播",咪视通-6
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000008379
-#EXTINF:-1,group-title="🎽咪视界直播",-7
+#EXTINF:-1,group-title="🎽咪视界直播",咪视通-7
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010129
 #EXTINF:-1,group-title="🎽咪视界直播",咪视通-8
 http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000001000010948
