@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/hewittchoi/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="🕘️更新时间",2026-02-28 05:47:38
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="🕘️更新时间",2026-03-02 05:28:13
 http://go.bkpcp.top/mg/cctv1
 #EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CCTV1综合.png" group-title="📺央视频道",CCTV1综合
 http://go.bkpcp.top/mg/cctv1
@@ -102,9 +102,9 @@ http://go.bkpcp.top/mg/cgtne
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/CGTN阿语.png" group-title="💰央视付费",CGTN阿语
 http://go.bkpcp.top/mg/cgtna
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
-http://go.061899.xyz:80/mg/gdws
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="📡卫视频道",广东卫视
+http://go.061899.xyz:80/mg/gdws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
 http://go.061899.xyz:80/mg/szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/深圳卫视.png" group-title="📡卫视频道",深圳卫视
@@ -116,9 +116,9 @@ http://go.bkpcp.top/mg/gddwq
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://go.bkpcp.top/mg/hunws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
-http://go.bkpcp.top/mg/zjws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
+http://go.bkpcp.top/mg/zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="📡卫视频道",浙江卫视
 http://go.061899.xyz:80/mg/zjws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
@@ -126,9 +126,9 @@ http://go.061899.xyz:80/mg/jsws
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/江苏卫视.png" group-title="📡卫视频道",江苏卫视
 http://go.bkpcp.top/mg/jsws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
-http://go.061899.xyz:80/mg/gxws
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
 http://go.bkpcp.top/mg/gxws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广西卫视.png" group-title="📡卫视频道",广西卫视
+http://go.061899.xyz:80/mg/gxws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
 http://go.061899.xyz:80/mg/dnws
 #EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/东南卫视.png" group-title="📡卫视频道",东南卫视
@@ -154,9 +154,9 @@ http://go.bkpcp.top/mg/hljws
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/黑龙江卫视.png" group-title="📡卫视频道",黑龙江卫视
 http://go.061899.xyz:80/mg/hljws
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
-http://go.061899.xyz:80/mg/lnws
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
 http://go.bkpcp.top/mg/lnws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/辽宁卫视.png" group-title="📡卫视频道",辽宁卫视
+http://go.061899.xyz:80/mg/lnws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
 http://go.061899.xyz:80/mg/jlbws
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/吉林卫视.png" group-title="📡卫视频道",吉林卫视
@@ -174,21 +174,21 @@ http://go.061899.xyz:80/mg/hbws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/河北卫视.png" group-title="📡卫视频道",河北卫视
 http://go.bkpcp.top/mg/hbws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
-http://go.061899.xyz:80/mg/hnws
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
 http://go.bkpcp.top/mg/hnws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/河南卫视.png" group-title="📡卫视频道",河南卫视
+http://go.061899.xyz:80/mg/hnws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://go.061899.xyz:80/mg/gzws
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/贵州卫视.png" group-title="📡卫视频道",贵州卫视
 http://go.bkpcp.top/mg/gzws
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
-http://go.061899.xyz:80/mg/cqws
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
 http://go.bkpcp.top/mg/cqws
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
-http://go.bkpcp.top/mg/scws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/重庆卫视.png" group-title="📡卫视频道",重庆卫视
+http://go.061899.xyz:80/mg/cqws
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
 http://go.061899.xyz:80/mg/scws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/四川卫视.png" group-title="📡卫视频道",四川卫视
+http://go.bkpcp.top/mg/scws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
 http://go.bkpcp.top/mg/jxws
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/江西卫视.png" group-title="📡卫视频道",江西卫视
@@ -202,9 +202,9 @@ http://go.bkpcp.top/mg/xjws
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/青海卫视.png" group-title="📡卫视频道",青海卫视
 http://go.bkpcp.top/mg/qhws
 #EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
-http://go.bkpcp.top/mg/nmws
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
 http://go.bkpcp.top/mg/nmgws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/内蒙古卫视.png" group-title="📡卫视频道",内蒙古卫视
+http://go.bkpcp.top/mg/nmws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
 http://go.bkpcp.top/mg/nxws
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/宁夏卫视.png" group-title="📡卫视频道",宁夏卫视
@@ -228,9 +228,9 @@ http://go.bkpcp.top/mg/hinws
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/康巴卫视.png" group-title="📡卫视频道",康巴卫视
 http://go.bkpcp.top/mg/kbws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="🐤广东频道",广东卫视
-http://go.061899.xyz:80/mg/gdws
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="🐤广东频道",广东卫视
 http://go.bkpcp.top/mg/gdws
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/广东卫视.png" group-title="🐤广东频道",广东卫视
+http://go.061899.xyz:80/mg/gdws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/深圳卫视.png" group-title="🐤广东频道",深圳卫视
 http://go.061899.xyz:80/mg/szws
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/深圳卫视.png" group-title="🐤广东频道",深圳卫视
@@ -266,21 +266,21 @@ http://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/凤凰香港.png" group-title="🇭🇰香港频道",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港频道",TVB翡翠台
-http://cdn6.163189.xyz/163189/fct4k
-#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港频道",TVB翡翠台
 https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港频道",TVB翡翠台
-https://o11.163189.xyz/stream/tvb/fct4k/
+http://cdn6.163189.xyz/163189/fct4k
 #EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港频道",TVB翡翠台
 https://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="TVB翡翠台" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB翡翠台.png" group-title="🇭🇰香港频道",TVB翡翠台
+https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/TVB Plus.png" group-title="🇭🇰香港频道",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/HOY77.png" group-title="🇭🇰香港频道",HOY77
 https://cdn6.163189.xyz/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/HOY77.png" group-title="🇭🇰香港频道",HOY77
-https://cdn5.163189.xyz/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/HOY77.png" group-title="🇭🇰香港频道",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/HOY77.png" group-title="🇭🇰香港频道",HOY77
+https://cdn5.163189.xyz/live/hoy/stream.m3u8
 #EXTINF:-1 tvg-name="港台电视31" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/港台电视31.png" group-title="🇭🇰香港频道",港台电视31
 http://43.251.226.89:8080/play/918.m3u8
 #EXTINF:-1 tvg-name="港台电视32" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/港台电视32.png" group-title="🇭🇰香港频道",港台电视32
@@ -328,21 +328,21 @@ http://go.bkpcp.top/mg/gdty
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/江苏体育.png" group-title="🏀体育频道",江苏体育
 http://go.bkpcp.top/mg/jstyxx
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
-http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
-http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
-http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
-http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🏀体育频道",睛彩篮球
+http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
+http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🏀体育频道",睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩青少.png" group-title="🏀体育频道",睛彩青少
 http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/魅力足球.png" group-title="🏀体育频道",魅力足球
@@ -386,21 +386,21 @@ http://go.bkpcp.top/mg/ly
 #EXTINF:-1 tvg-name="新视觉" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/新视觉.png" group-title="🔢SITV",新视觉
 http://go.bkpcp.top/mg/mlzq
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🔢NewTV",睛彩篮球
-http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🔢NewTV",睛彩篮球
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🔢NewTV",睛彩篮球
-http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🔢NewTV",睛彩篮球
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
-http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
-http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩篮球.png" group-title="🔢NewTV",睛彩篮球
+http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
+http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩竞技.png" group-title="🔢NewTV",睛彩竞技
+http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/睛彩青少.png" group-title="🔢NewTV",睛彩青少
 http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 #EXTINF:-1 tvg-name="咪视界4K" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/咪视界4K.png" group-title="🎽咪视界直播",咪视界4K
@@ -546,9 +546,9 @@ http://go.bkpcp.top/mg/sdws
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/山东教育.png" group-title="🇨🇳山东频道",山东教育
 http://go.bkpcp.top/mg/sdjy
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="🇨🇳浙江频道",浙江卫视
-http://go.bkpcp.top/mg/zjws
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="🇨🇳浙江频道",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="🇨🇳浙江频道",浙江卫视
+http://go.bkpcp.top/mg/zjws
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/浙江卫视.png" group-title="🇨🇳浙江频道",浙江卫视
 http://go.061899.xyz:80/mg/zjws
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gitlab.com/hewittchoi/tvlist/-/raw/main/logo/之江纪录.png" group-title="🇨🇳浙江频道",之江纪录
