@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-22 03:59:11,http://go.bkpcp.top/mg/cctv1
+2026-03-24 04:07:50,http://go.bkpcp.top/mg/cctv1
 
 📺央视频道,#genre#
 CCTV1综合,http://go.bkpcp.top/mg/cctv1
@@ -56,8 +56,8 @@ CGTN西语,http://go.bkpcp.top/mg/cgtne
 CGTN阿语,http://go.bkpcp.top/mg/cgtna
 
 📡卫视频道,#genre#
-广东卫视,http://go.061899.xyz:80/mg/gdws
 广东卫视,http://go.bkpcp.top/mg/gdws
+广东卫视,http://go.061899.xyz:80/mg/gdws
 深圳卫视,http://go.061899.xyz:80/mg/szws
 深圳卫视,http://go.bkpcp.top/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
@@ -76,38 +76,38 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 海峡卫视,http://go.bkpcp.top/mg/hxws
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://go.061899.xyz:80/mg/bjws
-天津卫视,http://go.bkpcp.top/mg/tjws
 天津卫视,http://go.061899.xyz:80/mg/tjws
+天津卫视,http://go.bkpcp.top/mg/tjws
 东方卫视,http://go.bkpcp.top/mg/dfws
 东方卫视,http://go.061899.xyz:80/mg/dfws
-黑龙江卫视,http://go.bkpcp.top/mg/hljws
 黑龙江卫视,http://go.061899.xyz:80/mg/hljws
-辽宁卫视,http://go.061899.xyz:80/mg/lnws
+黑龙江卫视,http://go.bkpcp.top/mg/hljws
 辽宁卫视,http://go.bkpcp.top/mg/lnws
-吉林卫视,http://go.bkpcp.top/mg/jlws
+辽宁卫视,http://go.061899.xyz:80/mg/lnws
 吉林卫视,http://go.061899.xyz:80/mg/jlbws
-湖北卫视,http://go.061899.xyz:80/mg/hubws
+吉林卫视,http://go.bkpcp.top/mg/jlws
 湖北卫视,http://go.bkpcp.top/mg/hubws
+湖北卫视,http://go.061899.xyz:80/mg/hubws
 山东卫视,http://go.bkpcp.top/mg/sdws
 安徽卫视,http://go.bkpcp.top/mg/ahws
-河北卫视,http://go.bkpcp.top/mg/hbws
 河北卫视,http://go.061899.xyz:80/mg/hbws
-河南卫视,http://go.061899.xyz:80/mg/hnws
+河北卫视,http://go.bkpcp.top/mg/hbws
 河南卫视,http://go.bkpcp.top/mg/hnws
+河南卫视,http://go.061899.xyz:80/mg/hnws
 贵州卫视,http://go.061899.xyz:80/mg/gzws
 贵州卫视,http://go.bkpcp.top/mg/gzws
 重庆卫视,http://go.061899.xyz:80/mg/cqws
 重庆卫视,http://go.bkpcp.top/mg/cqws
-四川卫视,http://go.bkpcp.top/mg/scws
 四川卫视,http://go.061899.xyz:80/mg/scws
+四川卫视,http://go.bkpcp.top/mg/scws
 江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://go.061899.xyz:80/mg/jxws
 云南卫视,http://go.bkpcp.top/mg/ynws
 延边卫视,http://go.bkpcp.top/mg/ybws
 新疆卫视,http://go.bkpcp.top/mg/xjws
 青海卫视,http://go.bkpcp.top/mg/qhws
-内蒙古卫视,http://go.bkpcp.top/mg/nmws
 内蒙古卫视,http://go.bkpcp.top/mg/nmgws
+内蒙古卫视,http://go.bkpcp.top/mg/nmws
 宁夏卫视,http://go.bkpcp.top/mg/nxws
 宁夏卫视,http://go.bkpcp.top/mg/lnws
 宁夏卫视,http://go.061899.xyz:80/mg/lnws
@@ -121,8 +121,8 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 康巴卫视,http://go.bkpcp.top/mg/kbws
 
 🐤广东频道,#genre#
-广东卫视,http://go.061899.xyz:80/mg/gdws
 广东卫视,http://go.bkpcp.top/mg/gdws
+广东卫视,http://go.061899.xyz:80/mg/gdws
 深圳卫视,http://go.061899.xyz:80/mg/szws
 深圳卫视,http://go.bkpcp.top/mg/szws
 大湾区卫视,http://go.bkpcp.top/mg/dwqws
@@ -144,10 +144,10 @@ CGTN阿语,http://go.bkpcp.top/mg/cgtna
 凤凰中文,http://cdn6.163189.xyz/163189/fhzw
 凤凰资讯,http://cdn6.163189.xyz/163189/fhzx
 凤凰香港,http://cdn6.163189.xyz/163189/fhhk
-TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB翡翠台,http://cdn6.163189.xyz/163189/fct4k
 TVB翡翠台,https://mg.345564.xyz/proxy.php?url=http://cdn6.163189.xyz/live/fct4k/stream.m3u8
 TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct4k/
+TVB翡翠台,https://o11.163189.xyz/stream/tvb/fct/
 TVB Plus,https://o11.163189.xyz/stream/tvb/tvbp/
 HOY77,https://cdn6.163189.xyz/live/hoy/stream.m3u8
 HOY77,https://cdn5.163189.xyz/live/hoy/stream.m3u8
@@ -166,8 +166,8 @@ HOY77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 CHC动作电影,http://go.bkpcp.top/mg/chcdz
 CHC动作电影,http://go.bkpcp.top/mg/dzdy
 CHC影迷电影,http://go.bkpcp.top/mg/ymdy
-CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 CHC家庭影院,http://go.bkpcp.top/mg/chcjt
+CHC家庭影院,http://go.bkpcp.top/mg/jtyy
 IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 
 🏀体育频道,#genre#
@@ -181,14 +181,14 @@ CCTV16奥林匹克,http://go.bkpcp.top/mg/cctv16
 CCTV16奥林匹克,http://go.061899.xyz:80/mg/cctv16
 广东体育,http://go.bkpcp.top/mg/gdty
 江苏体育,http://go.bkpcp.top/mg/jstyxx
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
-睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 睛彩青少,http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 魅力足球,http://go.bkpcp.top/mg/mlzq
 全民乒乓,http://go.bkpcp.top/mg/qmpp
@@ -224,14 +224,14 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 🔢BesTV百视,#genre#
 
 🔢NewTV,#genre#
+睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
+睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000021904
 睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011531
-睛彩篮球,http://43.251.226.89:9003/TVOD/3000000020000011529.m3u8?token=8520
-睛彩篮球,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011529
-睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011528
 睛彩竞技,http://43.251.226.89:9003/TVOD/3000000020000011528.m3u8?token=8520
 睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000004193
+睛彩竞技,http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000020000011530
 睛彩青少,http://43.251.226.89:9003/TVOD/3000000020000011525.m3u8?token=8520
 
 🔢IHOT,#genre#
@@ -372,8 +372,8 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 🇨🇳广西频道,#genre#
 
 🇨🇳天津频道,#genre#
-天津卫视,http://go.bkpcp.top/mg/tjws
 天津卫视,http://go.061899.xyz:80/mg/tjws
+天津卫视,http://go.bkpcp.top/mg/tjws
 
 🇨🇳四川频道,#genre#
 北川电视一套,http://go.bkpcp.top/mg/scws
@@ -397,8 +397,8 @@ IPTV经典电影,http://go.bkpcp.top/mg/jdxgdy
 
 🇨🇳河北频道,#genre#
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-河北卫视,http://go.bkpcp.top/mg/hbws
 河北卫视,http://go.061899.xyz:80/mg/hbws
+河北卫视,http://go.bkpcp.top/mg/hbws
 
 🇨🇳贵州频道,#genre#
 
