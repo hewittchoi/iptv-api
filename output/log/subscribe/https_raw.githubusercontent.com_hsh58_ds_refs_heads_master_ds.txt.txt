@@ -100,11 +100,11 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen.php
-中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-2.php
+中天新闻,https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
+中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Hv]中天新聞
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
-寰宇新闻,http://rihou.cc:555/tv/[Hk]寰宇新闻
+寰宇新闻,https://t.freetv.fun/live/huan-yu-xin-wen.php
 东森新闻,https://t.freetv.fun/live/dong-sen-xin-wen.m3u8
 东森新闻,http://rihou.cc:555/tv/[Hk]东森新闻
 中视新闻,http://rihou.cc:555/tv/[Hk]中视新闻
