@@ -147,6 +147,10 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 江苏体育休闲,http://js.zubo.cc.cd/?id=jsty
 五星体育,http://192.151.150.154/live/wxtyhd.m3u8
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
+晴彩青少,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011525
+晴彩竞技,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011528
+晴彩篮球,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011529
+晴彩广场舞,http://anfeind1.kmdns.net:19999/migunohosts.php?channel-id=FifastbLive&Contentid=3000000020000011523
 快乐垂钓,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/KLCDMPP360.m3u8
 快乐垂钓,http://idc.zymok.cn:10000/rtp/239.77.0.145:5146
 快乐垂钓,http://t1.huase.ltd:8888/rtp/239.77.0.145:5146
@@ -159,6 +163,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 乐游纪实,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226354/index.m3u8
 生活时尚,http://home.scanflove.com:7788/rtp/235.254.197.160:7980
 生活时尚,http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226357/index.m3u8
+茶频道,http://drive.mxmy.net:8888/rtp/239.3.1.165:8001
 茶道频道,https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/CPDMPP360.m3u8
 茶道频道,http://home.scanflove.com:7788/rtp/235.254.198.198:7980
 江西陶瓷,http://192.151.150.154/live/jxtv10.m3u8
@@ -182,7 +187,7 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 央视精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
-
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 影视频道,#genre#
 重温经典,http://111.8.242.103:9999/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,http://38.75.136.137:98/gslb/dsdqpub/cwjd.m3u8?auth=testpub
@@ -198,6 +203,8 @@ tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 江苏影视,http://js.zubo.cc.cd/?id=jsys
 安徽影视,http://129.211.14.102:25000/ahtv.php?id=ystv&token=www.9kds.com
 北京影视,http://129.211.14.102:25000/btime.php?id=btvys&token=www.9kds.com
+淘电影,http://drive.mxmy.net:8888/rtp/239.3.1.250:8001
+淘剧场,http://drive.mxmy.net:8888/rtp/239.3.1.95:8001
 好片速递,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
 电影大片,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_738_1080P_t10/c57_fast_738_1080P_t10.m3u8?d
 古装妖魔,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_947_1080P_t10/c58_fast_947_1080P_t10.m3u8?d
