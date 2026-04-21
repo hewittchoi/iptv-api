@@ -102,7 +102,8 @@ CCTV13,http://go.bkpcp.top/mg/cctv13
 凤凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
 凤凰资讯,http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8
 凤凰香港,http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8
-中天新闻,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 寰宇新闻,https://pixman.passwdwork.cc.cd/proxy/5b436f102e0f789f.m3u8
 tvbs新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
 tvbs新闻,http://rihou.cc:555/tv/[FY]tvbS新闻
