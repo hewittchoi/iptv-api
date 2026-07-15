@@ -79,7 +79,7 @@
 # http://ztha.top/TVBox/tv/thtv.txt
 # https://gitee.com/gly358617629/iptv/raw/master/IPTV.txt
 # https://raw.githubusercontent.com/alenin-zhang/IPTV/refs/heads/main/CNTV.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+# https://raw.githubusercontent.com/lalifeier/IPTV/cfe22eb9ffe49d50370a686ca8ed95031a5ee8b5/txt/IPTV.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 
-# https://raw.githubusercontent.com/lalifeier/IPTV/cfe22eb9ffe49d50370a686ca8ed95031a5ee8b5/txt/IPTV.txt
+# https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
