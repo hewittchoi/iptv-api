@@ -83,6 +83,7 @@
 # https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 # https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 # https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.txt
+# https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
@@ -94,9 +95,8 @@ https://gitlab.com/hewittchoi/tvlist/-/raw/main/updated.txt
 https://raw.githubusercontent.com/hsh58/ds/refs/heads/master/ds.txt
 https://raw.githubusercontent.com/Kimentanm/aptv/refs/heads/master/m3u/iptv.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 
-# https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/%E7%BB%BC%E5%90%88%E6%BA%90.txt
+# https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
