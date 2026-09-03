@@ -73,6 +73,7 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 港台频道,#genre#
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8?key=txiptv
 凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
+凤凰香港,https://mytv1.kzzc.eu.cc/?url=https://cdn6.cc.cd/163189/fhhk
 凤凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 凤凰资讯,http://rihou.cc:555/tv/[Pd]凤凰资讯
 凤凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
@@ -81,12 +82,12 @@ CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 凤凰中文,https://cdn.qd.je/163189.php?id=fhzw
 凤凰资讯,https://cdn.qd.je/163189.php?id=fhzx
 凤凰香港,https://cdn.qd.je/163189.php?id=fhhk
+中天新闻,http://rihou.cc:555/tv/[Pd]中天新闻
 中天新闻,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://rihou.cc:555/tv/[SZ]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Us]中天新闻
 中天新闻,http://rihou.cc:555/tv/[Bx]中天新闻
-中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8
 寰宇新闻,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 东森新闻,http://4gtv.cnlive.club/channel/n5ca63a3a/index.m3u8?q=1782639885837
 中视新闻,http://4gtv.cnlive.club/channel/7e6461d6/index.m3u8?q=1782639885837
